@@ -1,0 +1,1041 @@
+[
+    {
+        "id": 0,
+        "title": "Adan, Heran",
+        "titleRaw": "Adan, Heran (ay-DAN, HEH-ran)",
+        "titlePhonetic": "ay-DAN, HEH-ran",
+        "content": "Governor of Baerlon."
+    },
+    {
+        "id": 1,
+        "title": "Aes Sedai",
+        "titleRaw": "Aes Sedai (EYEZ seh-DEYE)",
+        "titlePhonetic": "EYEZ seh-DEYE",
+        "content": "Wielders of the One Power. Since the Time of Madness, all surviving Aes Sedai are women. Widely distrusted and feared, even hated, they are blamed by many for the Breaking of the World, and are generally thought to meddle in the affairs of nations. At the same time, few rulers will be without an Aes Sedai advisor, even in lands where the existence of such a connection must be kept secret. Used as an honorific, so: Sheriam Sedai; and as a high honorific, so: Sheriam Aes Sedai. See also Ajah; Amyrlin Seat"
+    },
+    {
+        "id": 2,
+        "title": "Age Lace",
+        "titleRaw": "Age Lace",
+        "content": "See Pattern of an Age"
+    },
+    {
+        "id": 3,
+        "title": "Age of Legends",
+        "titleRaw": "Age of Legends",
+        "content": "The Age ended by the War of the Shadow and the Breaking of the World. A time when Aes Sedai performed wonders now only dreamed of. See also:Wheel of Time"
+    },
+    {
+        "id": 4,
+        "title": "Agelmar; Lord Agelmar of House of Jagad",
+        "titleRaw": "Agelmar; Lord Agelmar of House of Jagad (AGH-el-mar; JAH-gad)",
+        "titlePhonetic": "AGH-el-mar; JAH-gad",
+        "content": "Lord of Fal Dara. His sign is three running red foxes."
+    },
+    {
+        "id": 5,
+        "title": "Aiel",
+        "titleRaw": "Aiel (eye-EEL)",
+        "titlePhonetic": "eye-EEL",
+        "content": "The people Aiel Waste. Fierce and hardy. Also called Aielmen. They veil their faces before they kill, giving rise to the saying \"acting like a black-veiled Aiel\" to decribe someone who is being violent. Deadly warriors with weapons or with nothing but their bare hands, they will not touch a sword. Their pipers play them into battle with the music of dances, and Aielmen call battle \"the Dance\"."
+    },
+    {
+        "id": 6,
+        "title": "Aiel Waste",
+        "titleRaw": "Aiel Waste",
+        "content": "The harsh, rugged and all-but-waterless land east of the Spine of the World. Few outsiders venture there, not only because water is almost impossible to find for one not born there, but because the Aiel consider themselves at war with all other peoples and do not welcome strangers."
+    },
+    {
+        "id": 7,
+        "title": "Ajah",
+        "titleRaw": "Ajah (AH-jah)",
+        "titlePhonetic": "AH-jah",
+        "content": "Societies among the Aes Sedai, to which all Aes Sedai belong. They are designated by colors: Blue Ajah, Red Ajah, White Ajah, Green Ajah, Brown Ajah, Yellow Ajah, and Gray Ajah. Each follows a specific pjilosophy of the use of the One Power and purposes of the Aes Sedai.  For example, the Red Ajah bends all its energies to finding and gentling men who are attempting to wield the Power. The Brown Ajah, on the other hand, forsakes involvment with the world and dedicates itself to seeking knowledge. There are rumors (hotly denied, and never safely mentioned in front of any Aes Sedai) of a Black Ajah, dedicated to serving the Dark One."
+    },
+    {
+        "id": 8,
+        "title": "Al Ellisande!",
+        "titleRaw": "Al Ellisande! (ahlehl-lih-SAHN-dah)",
+        "titlePhonetic": "ahlehl-lih-SAHN-dah",
+        "content": "In the Old Tongue, \"For the Rose of the Sun!\""
+    },
+    {
+        "id": 9,
+        "title": "Aldieb",
+        "titleRaw": "Aldieb (ahl-DEEB)",
+        "titlePhonetic": "ahl-DEEB",
+        "content": "In the Old Tongue, \"West Wind,\" the wind that brings the spring rains."
+    },
+    {
+        "id": 10,
+        "title": "al'Meara, Nynaeve",
+        "titleRaw": "al'Meara, Nynaeve (ahl-MEER-ah, NIGH-neev)",
+        "titlePhonetic": "ahl-MEER-ah, NIGH-neev",
+        "content": "The Wisdom of Emond's Field."
+    },
+    {
+        "id": 11,
+        "title": "al'Thor, Rand",
+        "titleRaw": "al'Thor, Rand (ahl-THOR, RAND)",
+        "titlePhonetic": "ahl-THOR, RAND",
+        "content": "A young farmer and sheepherder from the Two Rivers."
+    },
+    {
+        "id": 12,
+        "title": "al'Vere, Egwene",
+        "titleRaw": "al'Vere, Egwene (ahl-VEER, eh-GWAIN)",
+        "titlePhonetic": "ahl-VEER, eh-GWAIN",
+        "content": "Youngest daughter of the innkeeper in Emond's Field."
+    },
+    {
+        "id": 13,
+        "title": "Amyrlin Seat",
+        "titleRaw": "Amyrlin Seat (AHM-ehr-lin)",
+        "titlePhonetic": "AHM-ehr-lin",
+        "content": "(1) The title of the leader of the Aes Sedai. Elected for life by the Hall of the Tower, the highest council of the Aes Sedai, which consists of three representatives from each of the seven Ajahs. The Amyrlin Seat has, throtetically at least, almost supreme authority among the Aes Sedai. She ranks as the equal of a king or queen."
+    },
+    {
+        "id": 14,
+        "title": "Andor",
+        "titleRaw": "Andor (AN-door)",
+        "titlePhonetic": "AN-door",
+        "content": "The realm within which the Two Rivers lies. The sign of Andor is a rampant white lion on a field of red."
+    },
+    {
+        "id": 15,
+        "title": "angreal",
+        "titleRaw": "angreal (ahn-gree-AHL)",
+        "titlePhonetic": "ahn-gree-AHL",
+        "content": "A very rare object which allows anyone capable of channeling the One Power to handle a greater amount of the Power than would be safely possible unaided. Remnants of the Age of Legends, the means of their making is no longer known. See also sa'angreal"
+    },
+    {
+        "id": 16,
+        "title": "Arafel",
+        "titleRaw": "Arafel (AH-rah-fehl)",
+        "titlePhonetic": "AH-rah-fehl",
+        "content": "One of the Borderlands. The sign of Arafel is three white roses on a field of red, quartered with three red roses on a field of white."
+    },
+    {
+        "id": 17,
+        "title": "Aram",
+        "titleRaw": "Aram (AY-ram)",
+        "titlePhonetic": "AY-ram",
+        "content": "A young man of the Tuatha'an."
+    },
+    {
+        "id": 18,
+        "title": "Avendesora",
+        "titleRaw": "Avendesora (Ah-vehn-deh-SO-rah)",
+        "titlePhonetic": "Ah-vehn-deh-SO-rah",
+        "content": "In the Old Tongue, \"the Tree of Life.\" Mentioned in many stories and legends."
+    },
+    {
+        "id": 19,
+        "title": "Aybara, Perrin",
+        "titleRaw": "Aybara, Perrin (ay-BAHR-ah, PEHR-rihn)",
+        "titlePhonetic": "ay-BAHR-ah, PEHR-rihn",
+        "content": "A young blacksmith's apprentice from Emond's Field."
+    },
+    {
+        "id": 20,
+        "title": "Ba'alzamon",
+        "titleRaw": "Ba'alzamon (bah-AHL-zah-mon)",
+        "titlePhonetic": "bah-AHL-zah-mon",
+        "content": "In the Trolloc tongue, \"Heart of the Dark.\" Believed to be the Trolloc name for the Dark One."
+    },
+    {
+        "id": 21,
+        "title": "Baerlon",
+        "titleRaw": "Baerlon (BAYR-lon)",
+        "titlePhonetic": "BAYR-lon",
+        "content": "A city in Andor on the road from Caemlyn to the mines in the Mountains of Mist."
+    },
+    {
+        "id": 22,
+        "title": "Barran, Doral",
+        "titleRaw": "Barran, Doral (BAHR-rahn, DOOR-ahl)",
+        "titlePhonetic": "BAHR-rahn, DOOR-ahl",
+        "content": "The wisdom in Emond's Field prior to Nynaeve al'Meara."
+    },
+    {
+        "id": 23,
+        "title": "Bel Tine",
+        "titleRaw": "Bel Tine (BEHL TINE)",
+        "titlePhonetic": "BEHL TINE",
+        "content": "Spring festival in the Two Rivers."
+    },
+    {
+        "id": 24,
+        "title": "biteme",
+        "titleRaw": "biteme (BITE-me)",
+        "titlePhonetic": "BITE-me",
+        "content": "A small, almost invisible biting insect."
+    },
+    {
+        "id": 25,
+        "title": "Black Ajah",
+        "titleRaw": "Black Ajah",
+        "content": "See Ajah."
+    },
+    {
+        "id": 26,
+        "title": "Blasted Lands",
+        "titleRaw": "Blasted Lands",
+        "content": "Desolated lands surronding Shayol Ghul, beyond the Great Blight."
+    },
+    {
+        "id": 27,
+        "title": "Blight, the",
+        "titleRaw": "Blight, the",
+        "content": "See Great Blight, the."
+    },
+    {
+        "id": 28,
+        "title": "Blue Ajah",
+        "titleRaw": "Blue Ajah",
+        "content": "See Ajah."
+    },
+    {
+        "id": 29,
+        "title": "Borderlands, the",
+        "titleRaw": "Borderlands, the",
+        "content": "The nations bordering the Great Blight: Saldaea, Arafel, Kandor, and Shienar."
+    },
+    {
+        "id": 30,
+        "title": "Bornhald, Dain",
+        "titleRaw": "Bornhald, Dain (BOHRN-hahld, Day-ihn)",
+        "titlePhonetic": "BOHRN-hahld, Day-ihn",
+        "content": "An officer of the Children of the Light, son of Lord Captain Geofram Bornhald."
+    },
+    {
+        "id": 31,
+        "title": "Caemlyn",
+        "titleRaw": "Caemlyn (KAYM-lihn)",
+        "titlePhonetic": "KAYM-lihn",
+        "content": "The capital city of Andor."
+    },
+    {
+        "id": 32,
+        "title": "Cairhien",
+        "titleRaw": "Cairhien (KEYE-ree-EHN)",
+        "titlePhonetic": "KEYE-ree-EHN",
+        "content": "Both a nation along the Spine of the World and the capital cift of that nation. The city was burned and looted during the Aiel War (976-978 NE). The sign of Cairhien is a many-rayed golden sun rising from the bottom of a field of sky blue."
+    },
+    {
+        "id": 33,
+        "title": "Carai an Caldazar!",
+        "titleRaw": "Carai an Caldazar! (cah-REYE ahn cahl-dah-ZAHR)",
+        "titlePhonetic": "cah-REYE ahn cahl-dah-ZAHR",
+        "content": "In the Old Tongue, \"For the honor of the Red Eagle!\" The ancient battle cry of Manetheren."
+    },
+    {
+        "id": 34,
+        "title": "Carai an Ellisande!",
+        "titleRaw": "Carai an Ellisande!",
+        "content": "In the Old Tongue, \"For the honor of the Rose of the Sun!\" The battle cry of the last king of Manetheren."
+    },
+    {
+        "id": 35,
+        "title": "Cauthon, Matrim",
+        "titleRaw": "Cauthon, Matrim (Mat) (CAW-thon, MAT-rihm)",
+        "titlePhonetic": "Mat",
+        "content": "A young farmer from the Two Rivers."
+    },
+    {
+        "id": 36,
+        "title": "channel",
+        "titleRaw": "channel",
+        "content": "(1) (verb) To control the flow of the One Power."
+    },
+    {
+        "id": 37,
+        "title": "Charin, Jain",
+        "titleRaw": "Charin, Jain (CHAH-rihm, JAY-ihn)",
+        "titlePhonetic": "CHAH-rihm, JAY-ihn",
+        "content": "See Farstrider, Jain."
+    },
+    {
+        "id": 38,
+        "title": "Children of the Light",
+        "titleRaw": "Children of the Light",
+        "content": "A society holding strict ascetic beliefs, dedicated to the defeat of the Dark One and the destruction of all Darkfriends. Founded buring the War of the Hundred Years by Lothair Mantelar (LOH-thayr MAHN-tee-LAHR) to proselytize against increasing numbers of Darkfriends, they evolved during the war into a completely military organization, extremely rigid in their beliefs and completely certain that only they know the truth and the right. They hate Aes Sedai, considering them, and any who support or befriend them, Darkfriends. They are known disparagingly as Whitecloaks; their sign is a golden sunburst on a field of white."
+    },
+    {
+        "id": 39,
+        "title": "Covenant of the Ten Nations",
+        "titleRaw": "Covenant of the Ten Nations",
+        "content": "A union formed in the centuries after the Breaking of the World (circa 200 AB). Dedicated to the defeat of the Dark One. Broken apart by the Trolloc Wars."
+    },
+    {
+        "id": 40,
+        "title": "cuendillar",
+        "titleRaw": "cuendillar (CWAIN-deh-yar)",
+        "titlePhonetic": "CWAIN-deh-yar",
+        "content": "See heartstone."
+    },
+    {
+        "id": 41,
+        "title": "Damodred, Lord Galadedrid",
+        "titleRaw": "Damodred, Lord Galadedrid (DAHM-oh-drehd, gah-LAHD-eh-drihd)",
+        "titlePhonetic": "DAHM-oh-drehd, gah-LAHD-eh-drihd",
+        "content": "Only son of Taringail Damodred and Tigraine; half-brother to Elayne and Gawyn. His sign is a winged silver sword, point-down"
+    },
+    {
+        "id": 42,
+        "title": "Damodred, Prince Taringail",
+        "titleRaw": "Damodred, Prince Taringail (DAHM-oh-drehd, TAH-rihn-gail)",
+        "titlePhonetic": "DAHM-oh-drehd, TAH-rihn-gail",
+        "content": "A Royal Prince of Cairhien, he married Tigraine and fathered Galadedrid]. When Tigraine disappeared and was declared dead, he married Morgase and fathered Elayne and Gawyn]. He vanished under mysterious circumstances and has been presumed dead for many years. His sign was a golden, double-bitted battle axe."
+    },
+    {
+        "id": 43,
+        "title": "Dark One",
+        "titleRaw": "Dark One",
+        "content": "Most common name, used in every land, for Shai'tan: the source of evil, antithesis of the Creator. Imprisoned by the Creator at the moment of Creation in a prison at Shayol Ghul; an attempt to free him from that prison brought about the War of the Shadow, the tainting of saidin, the Breaking of the World, and the end of the Age of Legends."
+    },
+    {
+        "id": 44,
+        "title": "Dark One, naming the",
+        "titleRaw": "Dark One, naming the",
+        "content": "Saying the true name of the Dark One (Shai'tan) draws his attention, inevitably bringing ill-fortune at best, disaster at worst. For that reason many euphemisms are used, among them the Dark One, Father of Lies, Sightblinder, Lord of the Grave, Shepherd of the Night, Heartsbane, Heartfang, Grassburner, and Leafblighter. Someone who seems to be inviting ill fortune is often said to be \"naming the Dark One.\""
+    },
+    {
+        "id": 45,
+        "title": "Darkfriends",
+        "titleRaw": "Darkfriends",
+        "content": "Those who follow the Dark One and believe they will gain great power and rewards when he is freed from his prison."
+    },
+    {
+        "id": 46,
+        "title": "Daughter-heir",
+        "titleRaw": "Daughter-heir",
+        "content": "Title of the heir to the throne of Andor. The eldest daughter of the Queen succeeds her mother on the throne. Without a surviving daughter, the throne goes to the nearest female blood-relation of the Queen."
+    },
+    {
+        "id": 47,
+        "title": "Dha'vol, Dhai'mon",
+        "titleRaw": "Dha'vol, Dhai'mon (DAH-vohl, DEYE-mon)",
+        "titlePhonetic": "DAH-vohl, DEYE-mon",
+        "content": "See Trollocs."
+    },
+    {
+        "id": 48,
+        "title": "Djevik K'Shar",
+        "titleRaw": "Djevik K'Shar (DJEH-vihk KEH-SHAHR)",
+        "titlePhonetic": "DJEH-vihk KEH-SHAHR",
+        "content": "In the Trolloc tongue, \"The Dying Ground.\" The Trolloc name for the Aiel Waste."
+    },
+    {
+        "id": 49,
+        "title": "Domon, Bayle",
+        "titleRaw": "Domon, Bayle (DOH-mon, BAIL)",
+        "titlePhonetic": "DOH-mon, BAIL",
+        "content": "The captain of the Spray."
+    },
+    {
+        "id": 50,
+        "title": "Dragon, the",
+        "titleRaw": "Dragon, the",
+        "content": "The name by which Lews Therin Telamon was known during the War of the Shadow. In the madness which overtook all male Aes Sedai, Lews Therin killed every living person who carried any of his blood, as well as everyone he loved, thus earning the name Kinslayer. A saying is now used, “taken by the Dragon,” or “possessed of the Dragon,” to indicate that someone is endangering those around him or threatening them, especially if without cause. See also Dragon Reborn."
+    },
+    {
+        "id": 51,
+        "title": "Dragon, false",
+        "titleRaw": "Dragon, false",
+        "content": "Occasionally men claim to be the Dragon Reborn, and sometimes one of them gains following enough to require an army to put it down. Some have begun wars that involved many nations. Over the centuries most have been men unable to channel the One Power, but a few could. All, however, either disappeared, or were captured or killed, without fulfilling any of the Prophecies concerning the Rebirth of the Dragon. These men are called false Dragons. See also Dragon Reborn."
+    },
+    {
+        "id": 52,
+        "title": "Dragon Reborn",
+        "titleRaw": "Dragon Reborn",
+        "content": "According to prophecy and legend the Dragon will be born again at mankind's greatest hour of need to save the world. This is not something people look forward to, both because the prophecies say the Dragon Reborn will bring a new Breaking to the world, and because Lews Therin Kinslayer, the Dragon, is a name to make men shudder, even more than three thousand years after his death. See also Dragon, the; Dragon, false."
+    },
+    {
+        "id": 53,
+        "title": "Dragon's Fang, the",
+        "titleRaw": "Dragon's Fang, the",
+        "content": "A stylized mark, usually black, in the shape of a teardrop balanced on its point. Scrawled on a door or a house, it is an accusation of evil against the people inside."
+    },
+    {
+        "id": 54,
+        "title": "Dreadlords",
+        "titleRaw": "Dreadlords",
+        "content": "Those men and women who, able to channel the One Power, went over to the Shadow during the Trolloc Wars, acting as commanders of the Trolloc forces."
+    },
+    {
+        "id": 55,
+        "title": "Easar; King Easar of House Togita",
+        "titleRaw": "Easar; King Easar of House Togita (EE-zar; toh-GHEE-tah)",
+        "titlePhonetic": "EE-zar; toh-GHEE-tah",
+        "content": "King of Shienar. His sign is a white hart, which according to Shienaran custom is held also to be a sign of Shienar along with the Black Hawk."
+    },
+    {
+        "id": 56,
+        "title": "Elaida",
+        "titleRaw": "Elaida (eh-LY-da)",
+        "titlePhonetic": "eh-LY-da",
+        "content": "An Aes Sedai who advises Queen Morgase] of Andor."
+    },
+    {
+        "id": 57,
+        "title": "Elayne",
+        "titleRaw": "Elayne (ee-LAIN)",
+        "titlePhonetic": "ee-LAIN",
+        "content": "Queen Morgase's daughter, the Daughter-Heir to the Throne of Andor. Her sign is a golden lily."
+    },
+    {
+        "id": 58,
+        "title": "Else; Else Grinwell",
+        "titleRaw": "Else; Else Grinwell (EHLZ GRIHN-wehl)",
+        "titlePhonetic": "EHLZ GRIHN-wehl",
+        "content": "A farmer's daughter met on the Caemlyn Road."
+    },
+    {
+        "id": 59,
+        "title": "Eyeless, the",
+        "titleRaw": "Eyeless, the",
+        "content": "See Myrddraal."
+    },
+    {
+        "id": 60,
+        "title": "Fade",
+        "titleRaw": "Fade",
+        "content": "See Myrddraal."
+    },
+    {
+        "id": 61,
+        "title": "Fain, Padan",
+        "titleRaw": "Fain, Padan (FAIN, PAHD-ahn)",
+        "titlePhonetic": "FAIN, PAHD-ahn",
+        "content": "A peddler who arrives in Emond's Field just before Winternight."
+    },
+    {
+        "id": 62,
+        "title": "Far Dareis Mai",
+        "titleRaw": "Far Dareis Mai (FAHR DAH-rize MY)",
+        "titlePhonetic": "FAHR DAH-rize MY",
+        "content": "Literally, \"Maidens of the Spear.\" One of a number of warrior societies of the Aiel; unlike any of the others, it admits women and only women. A Maiden may not marry and remain in the society, nor may she fight while carrying a child. Any child born to a Maiden is given to another woman to raise, in such a way that no one knows who the child's mother was. (\"You may belong to no man, nor may any man belong to you, nor any child. The spear is your lover, your child, and your life.\") These children are treasured, for it is prophesied that a child born of a Maiden will unite the clans and return to the Aiel to the greatness they knew during the Age of Legends."
+    },
+    {
+        "id": 63,
+        "title": "Farstrider, Jain",
+        "titleRaw": "Farstrider, Jain (JAY-ihn)",
+        "titlePhonetic": "JAY-ihn",
+        "content": "A hero of the northern lands who journeyed to many lands and had many adventures; the author of several books, as well as being the subject of books and stories. He vanished in 981 NE, after returning from a trip into the Great Blight which some said had taken him all the way to Shayol Ghul."
+    },
+    {
+        "id": 64,
+        "title": "Father of Lies",
+        "titleRaw": "Father of Lies",
+        "content": "See Dark One."
+    },
+    {
+        "id": 65,
+        "title": "First Prince of the Sword",
+        "titleRaw": "First Prince of the Sword",
+        "content": "Title normally held by the eldest brother of the Queen of Andor, who has been trained since childhood to command the Queen's armies in time of war and to be her adviser in time of peace. If the Queen has no surviving brother, she will appoint someone to the title."
+    },
+    {
+        "id": 66,
+        "title": "fist",
+        "titleRaw": "fist",
+        "content": "The basic military unit of the Trollocs, varying in number; always more than one hundred, but never more than two hundred. A fist is usually, but not always, commanded by a Myrddraal."
+    },
+    {
+        "id": 67,
+        "title": "Five Powers, the",
+        "titleRaw": "Five Powers, the",
+        "content": "There are threads to the One Power, and each person who can channel the One Power can usually grasp some threads better than others. These threads are named according to the sorts of things that can be done using them — Earth, Air, Fire, Water, and Spirit — and are called the Five Powers. Any wielder of the One Power will have a greater degree of strength with one, or possibly two, of these, and lesser strength in the others. Some few may have great strength with three, but since the Age of Legends no one has had great strength with all five. Even then this was extremely rare. The degree of strength can vary greatly between individuals, so that some who can channel are much stronger than others. Performing certain acts with the One Power requires ability in one or more of the Five Powers. For example, starting or controlling a fire requires Fire, and affecting the weather requires Air and Water, while Healing requires Water and Spirit. While Spirit was found equally in men and women, great ability with Earth and/or Fire was found much more often among men, with Water and/or Air among women. There were exceptions, but it was so often so that Earth and Fire came to be regarded as male Powers, Air and Water as female. Generally, no ability is considered stronger than any other, though there is a saying among Aes Sedai: “There is no rock so strong that water and wind cannot wear it away, no fire so fierce that water cannot quench it or wind snuff it out.” It should be noted this saying came into use long after the last male Aes Sedai was dead. Any equivalent saying among male Aes Sedai is long lost."
+    },
+    {
+        "id": 68,
+        "title": "Flame of Tar Valon",
+        "titleRaw": "Flame of Tar Valon",
+        "content": "The symbol of Tar Valon and the Aes Sedai. A stylized representation of a flame; a white teardrop with the point upward."
+    },
+    {
+        "id": 69,
+        "title": "Forsaken, the",
+        "titleRaw": "Forsaken, the",
+        "content": "Name given to thirteen of the most powerful Aes Sedai ever known, who went over to the Dark One during the War of the Shadow in return for the promise of immortality. According to both legend and fragmentary records, they were imprisoned along with the Dark One when his prison was resealed. Their names are still used to frighten children."
+    },
+    {
+        "id": 70,
+        "title": "Galad",
+        "titleRaw": "Galad (gah-LAHD)",
+        "titlePhonetic": "gah-LAHD",
+        "content": "See Damodred, Lord Galadedrid."
+    },
+    {
+        "id": 71,
+        "title": "Gawyn",
+        "titleRaw": "Gawyn (GAH-wihn)",
+        "titlePhonetic": "GAH-wihn",
+        "content": "Queen Morgase's son, Elayne's brother, who will be First Prince of the Sword when Elayne ascends the throne. His sign is a white boar."
+    },
+    {
+        "id": 72,
+        "title": "gentling",
+        "titleRaw": "gentling",
+        "content": "The act, performed by Aes Sedai, of shutting off a male who can channel from the One Power. This is necessary because any man who learns to channel will go insane from the taint upon saidin and will almost certainly do horrible things with the Power in his madness. A man who has been gentled can still sense the True Source, but he cannot touch it. Whatever madness has come before gentling is arrested by the act of gentling, but not cured by it, and if it is done soon enough death can be averted."
+    },
+    {
+        "id": 73,
+        "title": "gleeman",
+        "titleRaw": "gleeman",
+        "content": "A traveling storyteller, musician, juggler, tumbler and all-around entertainer. Known by their trademark cloaks of many-colored patches, they perform mainly in the villages and smaller towns, since larger towns and cities have other entertainments available."
+    },
+    {
+        "id": 74,
+        "title": "Great Blight, the",
+        "titleRaw": "Great Blight, the",
+        "content": "A region in the far north, entirely corrupted by the Dark One. A haunt of Trollocs, Myrddraal, and other creatures of the Dark One."
+    },
+    {
+        "id": 75,
+        "title": "Great Hunt of the Horn, the",
+        "titleRaw": "Great Hunt of the Horn, the",
+        "content": "A cycle of stories concerning the legendary search for the Horn of Valere, in the years between the end of the Trolloc Wars and the beginning of the War of the Hundred Years. If told in their entirety, the cycle would take many days."
+    },
+    {
+        "id": 76,
+        "title": "Great Lord of the Dark",
+        "titleRaw": "Great Lord of the Dark",
+        "content": "The name by which Darkfriends refer to the Dark One, claiming that to use his true name would be blasphemous."
+    },
+    {
+        "id": 77,
+        "title": "Great Pattern",
+        "titleRaw": "Great Pattern",
+        "content": "The Wheel of Time weaves the Patterns of the Ages into the Great Pattern, which is the whole of existence and reality, past, present and future. Also known as the Lace of Ages. See also Pattern of an Age; Wheel of time, the."
+    },
+    {
+        "id": 78,
+        "title": "Great Serpent",
+        "titleRaw": "Great Serpent",
+        "content": "A symbol for time and eternity, ancient before the Age of Legends began, consisting of a serpent eating its own tail."
+    },
+    {
+        "id": 79,
+        "title": "Halfman",
+        "titleRaw": "Halfman",
+        "content": "See Myrddraal."
+    },
+    {
+        "id": 80,
+        "title": "Hawkwing, Artur",
+        "titleRaw": "Hawkwing, Artur",
+        "content": "A legendary king who united all the lands west of the Spine of the World, as well as some lands beyond the Aiel Waste. He even sent armies across the Aryth Ocean, but all contact with these was lost at his death, which set off the War of the Hundred Years. His sign was a golden hawk in flight. See also War of the Hundred Years."
+    },
+    {
+        "id": 81,
+        "title": "Heartfang; Heartsbane",
+        "titleRaw": "Heartfang; Heartsbane",
+        "content": "See Dark One."
+    },
+    {
+        "id": 82,
+        "title": "heartstone",
+        "titleRaw": "heartstone",
+        "content": "An indestructible substance created during the Age of Legends. Any known force used in an attempt to break it is absorbed, making heartstone stronger."
+    },
+    {
+        "id": 83,
+        "title": "Horn of Valere",
+        "titleRaw": "Horn of Valere (vah-LEER)",
+        "titlePhonetic": "vah-LEER",
+        "content": "The legendary object of the Great Hunt of the Horn. The Horn supposedly can call back dead heroes from the grave to fight against the Shadow."
+    },
+    {
+        "id": 84,
+        "title": "Hundred Companions, the",
+        "titleRaw": "Hundred Companions, the",
+        "content": "One hundred male Aes Sedai, among the most powerful of the Age of Legends, who, led by Lews Therin Telamon, launched the final stroke that ended the War of the Shadow by sealing the Dark One back into his prison. The Dark One's counterstroke tainted saidin; the Hundred Companions went mad and began the Breaking of the World."
+    },
+    {
+        "id": 85,
+        "title": "Illian",
+        "titleRaw": "Illian (IHL-lee-ahn)",
+        "titlePhonetic": "IHL-lee-ahn",
+        "content": "A great port on the Sea of Storms, capital city of the nation of the same name. The sign of Illian is nine golden bees on a field of dark green."
+    },
+    {
+        "id": 86,
+        "title": "Ingtar; Lord Ingtar of House Shinowa",
+        "titleRaw": "Ingtar; Lord Ingtar of House Shinowa (IHNG-tahr; shih-NOH-wah)",
+        "titlePhonetic": "IHNG-tahr; shih-NOH-wah",
+        "content": "A Shienaran warrior met at Fal Dara."
+    },
+    {
+        "id": 87,
+        "title": "Kandor",
+        "titleRaw": "Kandor (KANH-dohr)",
+        "titlePhonetic": "KANH-dohr",
+        "content": "One of the Borderlands. The sign of Kandor is a rearing red horse on a field of pale green."
+    },
+    {
+        "id": 88,
+        "title": "Kinch, Hyam",
+        "titleRaw": "Kinch, Hyam (KIHNCH, HY-ahm)",
+        "titlePhonetic": "KIHNCH, HY-ahm",
+        "content": "A farmer met on the Caemlyn Road."
+    },
+    {
+        "id": 89,
+        "title": "Ko'bal",
+        "titleRaw": "Ko'bal (KOH-bahl)",
+        "titlePhonetic": "KOH-bahl",
+        "content": "See Trollocs."
+    },
+    {
+        "id": 90,
+        "title": "Lace of Ages",
+        "titleRaw": "Lace of Ages",
+        "content": "See Great Pattern, the."
+    },
+    {
+        "id": 91,
+        "title": "Lan; al'Lan Mandragoran",
+        "titleRaw": "Lan; al'Lan Mandragoran (AHL-LAN man-DRAG-or-an)",
+        "titlePhonetic": "AHL-LAN man-DRAG-or-an",
+        "content": "A warrior from the north; Moiraine's companion."
+    },
+    {
+        "id": 92,
+        "title": "Leafblighter",
+        "titleRaw": "Leafblighter",
+        "content": "See Dark One."
+    },
+    {
+        "id": 93,
+        "title": "league",
+        "titleRaw": "league",
+        "content": "A measure of distance equal to four miles. See also mile."
+    },
+    {
+        "id": 94,
+        "title": "Luc; Lord Luc of House Mantear",
+        "titleRaw": "Luc; Lord Luc of House Mantear (LUKE; MAN-tee-ahr)",
+        "titlePhonetic": "LUKE; MAN-tee-ahr",
+        "content": "Tigraine's brother, who would have been her First Prince of the Sword when she ascended the throne. His disappearance in the Great Blight is believed to be in some way connected to Tigraine's later disappearance. His sign was an acorn."
+    },
+    {
+        "id": 95,
+        "title": "Lurk",
+        "titleRaw": "Lurk (LUHRK)",
+        "titlePhonetic": "LUHRK",
+        "content": "See Myrddraal."
+    },
+    {
+        "id": 96,
+        "title": "Machera, Elyas",
+        "titleRaw": "Machera, Elyas (mah-CHEER-ah, ee-LY-ahs)",
+        "titlePhonetic": "mah-CHEER-ah, ee-LY-ahs",
+        "content": "A man encountered by Perrin and Egwene in the forest."
+    },
+    {
+        "id": 97,
+        "title": "Mahdi",
+        "titleRaw": "Mahdi (MAH-dee)",
+        "titlePhonetic": "MAH-dee",
+        "content": "In the Old Tongue, \"Seeker.\" Title of the leader of a Tuatha'an carvan."
+    },
+    {
+        "id": 98,
+        "title": "Malkier",
+        "titleRaw": "Malkier (mahl-KEER)",
+        "titlePhonetic": "mahl-KEER",
+        "content": "A nation, once one of the Borderlands, now consumed by the Blight. The sign of Malkier was a golden crane in flight."
+    },
+    {
+        "id": 99,
+        "title": "Mandarb",
+        "titleRaw": "Mandarb (MAHN-dahrb)",
+        "titlePhonetic": "MAHN-dahrb",
+        "content": "In the Old Tongue, \"Blade.\""
+    },
+    {
+        "id": 100,
+        "title": "Manetheren",
+        "titleRaw": "Manetheren (mahn-EHTH-ehr-ehn)",
+        "titlePhonetic": "mahn-EHTH-ehr-ehn",
+        "content": "One of the Ten Nations that made the Second Covenant, and also the capital city of that nation. Both city and nation were utterly destroyed in the Trolloc Wars."
+    },
+    {
+        "id": 101,
+        "title": "Maradon",
+        "titleRaw": "Maradon (MAH-rah-don)",
+        "titlePhonetic": "MAH-rah-don",
+        "content": "The capital city of Saldaea."
+    },
+    {
+        "id": 102,
+        "title": "Merrilin, Thom",
+        "titleRaw": "Merrilin, Thom (MER-rih-lihn, TOM)",
+        "titlePhonetic": "MER-rih-lihn, TOM",
+        "content": "A gleeman who comes to Emond's Field to perform at Bel Tine."
+    },
+    {
+        "id": 103,
+        "title": "mile",
+        "titleRaw": "mile",
+        "content": "A measure of distance equal to one thousand spans. Four miles make one league. See also span."
+    },
+    {
+        "id": 104,
+        "title": "Min",
+        "titleRaw": "Min (MIN)",
+        "titlePhonetic": "MIN",
+        "content": "A young woman encountered at the Stag and Lion in Baerlon."
+    },
+    {
+        "id": 105,
+        "title": "Moiraine",
+        "titleRaw": "Moiraine (mwah-RAIN)",
+        "titlePhonetic": "mwah-RAIN",
+        "content": "A visitor to Emond's Field who arrives just before Winternight."
+    },
+    {
+        "id": 106,
+        "title": "Morgase",
+        "titleRaw": "Morgase (moor-GAYZ)",
+        "titlePhonetic": "moor-GAYZ",
+        "content": "By the Grace of the Light, Queen of Andor, High Seat of House Trakand (TRAHK-ahnd). Her sign is three golden keys. The sign of House Trakand is a silver keystone."
+    },
+    {
+        "id": 107,
+        "title": "Myrddraal",
+        "titleRaw": "Myrddraal (MUHRD-draal)",
+        "titlePhonetic": "MUHRD-draal",
+        "content": "Creatures of the Dark One, commanders of the Trollocs. Twisted offspring of Trollocs in which the human stock used to create the Trollocs has resurfaced, but tainted by the evil that made the Trollocs. Physically they are like men except that they have no eyes, but can see like eagles in light or dark. They have certain powers stemming from the Dark One, including the ability to cause paralyzing fear with a look and the ability to vanish wherever there are shadows. One of their few known weaknesses is that they are reluctant to cross running water. In different lands they are known by many names, among them Halfmen, the Eyeless, Shadowmen, Lurk, and Fade."
+    },
+    {
+        "id": 108,
+        "title": "One Power, the",
+        "titleRaw": "One Power, the",
+        "content": "The power drawn from the True Source. The vast majority of people are completely unable to learn to channel the One Power. A very small number can be taught to channel, and an even tinier number have the ability inborn. For these few there is no need to be taught; they will touch the True Source and channel the Power whether they want to or not, perhaps without even realizing what they are doing. This inborn ability usually manifests itself in late adolescence or early adulthood. If control is not taught, or self-learned (extremely difficult, with a success rate of only one in four), death is certain. Since the time of Madness, no man has been able to channel the Power without eventually going completely, horribly mad; and then, even if he has learned some control, dying from a wasting sickness which causes the sufferer to rot alive—a sickness caused, as is the madness, by the Dark One's taint on saidin. For a woman the death that comes without control of the Power is less horrible, but it is death just the same. Aes Sedai search for girls with the inborn ability as much to save their lives as to increase Aes Sedai numbers, and for men with it in order to stop the terrible things they inevitably do with the Power in their madness. See also channel; Time of Madness; True Source."
+    },
+    {
+        "id": 109,
+        "title": "Pattern of an Age",
+        "titleRaw": "Pattern of an Age",
+        "content": "The Wheel of Time weaves the threads of human lives into the Pattern of an Age, which forms the substance of reality for that Age; also known as Age Lace. See also ta'veren."
+    },
+    {
+        "id": 110,
+        "title": "Questioners, the",
+        "titleRaw": "Questioners, the",
+        "content": "An order within the Children of the Light. Their avowed purposes are discovering the truth in disputations and uncovering Darkfriends. In the search for truth and the Light, as they see it, they are even more zealous than the Children of the Light as a whole. Their normal method of inquiry is by torture; their normal attitude that they know the truth already and must only make their victim confess to it. The Questioners refer to themselves as the Hand of the Light, and at times act as if they were entirely separate from the Children and the Council of the Anointed, which commands the Children. The head of the Questioners is the High Inquisitor, who sits on the Council of the Anointed."
+    },
+    {
+        "id": 111,
+        "title": "Red Ajah",
+        "titleRaw": "Red Ajah",
+        "content": "See Ajah"
+    },
+    {
+        "id": 112,
+        "title": "sa'angreal",
+        "titleRaw": "sa'angreal (SAH-ahn-GREE-ahl)",
+        "titlePhonetic": "SAH-ahn-GREE-ahl",
+        "content": "An extremely rare object which allows an individual to channel much more of the One Power than would otherwise be possible or safe. A sa'angreal is like unto, but much, much more powerful than, an angreal. Remnants of the Age of Legends, the means of their making is no longer known."
+    },
+    {
+        "id": 113,
+        "title": "saidar; saidin",
+        "titleRaw": "saidar; saidin (sah-ih-DAHR; sah-ih-DEEN)",
+        "titlePhonetic": "sah-ih-DAHR; sah-ih-DEEN",
+        "content": "See True Source."
+    },
+    {
+        "id": 114,
+        "title": "Saldaea",
+        "titleRaw": "Saldaea (sahl-DAY-ee-ah)",
+        "titlePhonetic": "sahl-DAY-ee-ah",
+        "content": "One of the Borderlands. The sign of Saldaea is three silver fish on a field of dark blue."
+    },
+    {
+        "id": 115,
+        "title": "Sea Folk",
+        "titleRaw": "Sea Folk",
+        "content": "Inhabitants of islands in the Aryth (AH-rihth) Ocean and the Sea of Storms, they spend little time on those islands, living most of their lives on their ships. Most seaborne trade is carried by the Sea Folk's ships."
+    },
+    {
+        "id": 116,
+        "title": "Second Covenant",
+        "titleRaw": "Second Covenant",
+        "content": "See Covenant of the Ten Nations."
+    },
+    {
+        "id": 117,
+        "title": "Shadar Logoth",
+        "titleRaw": "Shadar Logoth (SHAH-dahr LOH-goth)",
+        "titlePhonetic": "SHAH-dahr LOH-goth",
+        "content": "In the Old Tongue, \"the Place Where the Shadow Waits.\" A city abandoned and shunned since the Trolloc Wars. Also called \"Shadow's Waiting.\""
+    },
+    {
+        "id": 118,
+        "title": "Shadowman",
+        "titleRaw": "Shadowman",
+        "content": "See Myrddraal."
+    },
+    {
+        "id": 119,
+        "title": "Shai'tan",
+        "titleRaw": "Shai'tan (SHAY-ih-TAN)",
+        "titlePhonetic": "SHAY-ih-TAN",
+        "content": "See Dark One."
+    },
+    {
+        "id": 120,
+        "title": "Shayol Ghul",
+        "titleRaw": "Shayol Ghul (SHAY-of GHOOL)",
+        "titlePhonetic": "SHAY-of GHOOL",
+        "content": "A mountain in the Blasted Lands, the site of the Dark One's prison."
+    },
+    {
+        "id": 121,
+        "title": "Shepherd of the Night",
+        "titleRaw": "Shepherd of the Night",
+        "content": "See Dark One."
+    },
+    {
+        "id": 122,
+        "title": "Sheriam",
+        "titleRaw": "Sheriam (SHEER-ee-ahm)",
+        "titlePhonetic": "SHEER-ee-ahm",
+        "content": "An Aes Sedai, of the Blue Ajah."
+    },
+    {
+        "id": 123,
+        "title": "Shienar",
+        "titleRaw": "Shienar (shy-NAHR)",
+        "titlePhonetic": "shy-NAHR",
+        "content": "One of the Borderlands. The sign of Shienar is a stooping black hawk."
+    },
+    {
+        "id": 124,
+        "title": "shoufa",
+        "titleRaw": "shoufa (SHOO fah)",
+        "titlePhonetic": "SHOO fah",
+        "content": "A garment of the Aiel, a cloth, usually the color of sand or rock, that wraps around the head and neck, leaving only the face bare."
+    },
+    {
+        "id": 125,
+        "title": "Sightburner",
+        "titleRaw": "Sightburner",
+        "content": "See Dark One."
+    },
+    {
+        "id": 126,
+        "title": "span",
+        "titleRaw": "span",
+        "content": "A measure of distance equal to two paces. A thousand spans make a mile."
+    },
+    {
+        "id": 127,
+        "title": "Spine of the World, the",
+        "titleRaw": "Spine of the World, the",
+        "content": "A towering mountain range, with only a few passes, which separates the Aiel Waste from the lands to the west."
+    },
+    {
+        "id": 128,
+        "title": "stedding",
+        "titleRaw": "stedding (STEHD-ding)",
+        "titlePhonetic": "STEHD-ding",
+        "content": "An Ogier (OH geer) homeland. Many stedding have been abandoned since the Breaking of the World. They are portrayed in story and legend as havens, and with reason. They are shielded in some way, no longer understood, so that within them no Aes Sedai can channel the One Power, nor even sense that the True Source exists. Attempts to wield the One Power from outside a stedding have no effect inside a stedding boundary. No Trolloc will enter a stedding unless driven, and even a Myrddraal will do so only at the greatest need and then with the greatest reluctance and distaste. Even Darkfriends, if truly dedicated, feel uncomfortable within a stedding."
+    },
+    {
+        "id": 129,
+        "title": "Stone of Tear",
+        "titleRaw": "Stone of Tear",
+        "content": "The fortress guarding the city of Tear. Said to be the earliest fortress built after the Time of Madness, and said by some to have been built during the Time of Madness. See also Tear."
+    },
+    {
+        "id": 130,
+        "title": "Sunday",
+        "titleRaw": "Sunday",
+        "content": "A feastday and festival in midsummer, widely celebrated."
+    },
+    {
+        "id": 131,
+        "title": "tabac",
+        "titleRaw": "tabac (tah-BAHK)",
+        "titlePhonetic": "tah-BAHK",
+        "content": "A weed, widely cultivated. The leaves of it, when dried and cured, are burned in wooden holders called pipes, the fumes being inhaled."
+    },
+    {
+        "id": 132,
+        "title": "Tallanvor, Martyn",
+        "titleRaw": "Tallanvor, Martyn (TAHL-ahn-vohr, mahr-TEEN)",
+        "titlePhonetic": "TAHL-ahn-vohr, mahr-TEEN",
+        "content": "Guardsman-Lieutenant of the Queen's Guard; met in Caemlyn."
+    },
+    {
+        "id": 133,
+        "title": "ta'maral'ailen",
+        "titleRaw": "ta'maral'ailen (tah-MAHR-ahl-EYE-lehn)",
+        "titlePhonetic": "tah-MAHR-ahl-EYE-lehn",
+        "content": "In the Old Tongue, \"Web of Destiny.\""
+    },
+    {
+        "id": 134,
+        "title": "Tanreall, Artur Paendrag",
+        "titleRaw": "Tanreall, Artur Paendrag (tahn-REE-ahl, AHR-tuhr PAY-ehn-DRAG)",
+        "titlePhonetic": "tahn-REE-ahl, AHR-tuhr PAY-ehn-DRAG",
+        "content": "See Hawkwing, Artur"
+    },
+    {
+        "id": 135,
+        "title": "Tar Valon",
+        "titleRaw": "Tar Valon (TAHR VAH-lon)",
+        "titlePhonetic": "TAHR VAH-lon",
+        "content": "A city on an island in the River Erinin. The center of Aes Sedai power, and location of the Amyrlin Seat."
+    },
+    {
+        "id": 136,
+        "title": "ta'veren",
+        "titleRaw": "ta'veren (tah-VEER-ehn)",
+        "titlePhonetic": "tah-VEER-ehn",
+        "content": "A person around whom the Wheel of Time weaves all surrounding life-threads, perhaps all life-threads, to form a Web of Destiny. See also Pattern of an Age."
+    },
+    {
+        "id": 137,
+        "title": "Tear",
+        "titleRaw": "Tear (TEER)",
+        "titlePhonetic": "TEER",
+        "content": "A great seaport on the Sea of Storms. The sign of Tear is three white crescents on a field of red and gold."
+    },
+    {
+        "id": 138,
+        "title": "Telamon, Lews Therin",
+        "titleRaw": "Telamon, Lews Therin (TEHL-ah-mon, LOOZ THEH-rihn)",
+        "titlePhonetic": "TEHL-ah-mon, LOOZ THEH-rihn",
+        "content": "See also Dragon, the."
+    },
+    {
+        "id": 139,
+        "title": "Thakan'dar",
+        "titleRaw": "Thakan'dar (thah-kahn-DAHR)",
+        "titlePhonetic": "thah-kahn-DAHR",
+        "content": "An eternally fog-shrouded valley below the slopes of Shayol Ghul."
+    },
+    {
+        "id": 140,
+        "title": "Tigraine",
+        "titleRaw": "Tigraine (tee-GRAIN)",
+        "titlePhonetic": "tee-GRAIN",
+        "content": "As Daughter-Heir of Andor, she married Taringail Damodred and bore his son Galadedrid. Her disappearance in 972 NE, shortly after her brother Luc vanished in the Blight, led to the struggle in Andor called the Succession, and caused the events in Cairhien which eventually brought on the Aiel War. Her sign was a woman's hand gripping a thorny rose-stem with a white blossom."
+    },
+    {
+        "id": 141,
+        "title": "Time of Madness",
+        "titleRaw": "Time of Madness",
+        "content": "See Breaking of the World, the."
+    },
+    {
+        "id": 142,
+        "title": "Tinkers",
+        "titleRaw": "Tinkers",
+        "content": "See Tuatha'an."
+    },
+    {
+        "id": 143,
+        "title": "Traveling People",
+        "titleRaw": "Traveling People",
+        "content": "See Tuatha'an."
+    },
+    {
+        "id": 144,
+        "title": "Trolloc Wars",
+        "titleRaw": "Trolloc Wars",
+        "content": "A series of wars, beginning about 1000 AB and lasting more than three hundred years, during which Trolloc armies ravaged the world. Eventually the Trollocs were slain or driven back into the Great Blight, but some nations ceased to exist, while others were almost depopulated. All records of the time are fragmentary. See also Covenant of the Ten Nations."
+    },
+    {
+        "id": 145,
+        "title": "Trollocs",
+        "titleRaw": "Trollocs (TRAHL-lohks)",
+        "titlePhonetic": "TRAHL-lohks",
+        "content": "Creatures of the Dark One, created during the War of the Shadow. Huge in stature, vicious in the extreme, they are a twisted blend of animal and human stock, and kill for the pure pleasure of killing. Sly, deceitful and treacherous, they can be trusted only by those they fear. They are omnivorous and will eat any kind of meat, including human flesh and the flesh of other Trollocs. Largely of human origin, they are able to interbreed with humankind, but the offspring are usually stillborn, and those which are not often fail to survive. They are divided into tribe-like bands, chief among them being the Ahf'frait, Al'ghol, Bhan'sheen, Dha'vol, Dhai'mon, Dhjin'nen, Ghar'ghael, Ghob'hlin, Gho'hlem, Ghraem'lan, Ko'bal, and the Kno'mon."
+    },
+    {
+        "id": 146,
+        "title": "True Source",
+        "titleRaw": "True Source",
+        "content": "The driving force of the universe, which turns the Wheel of Time. It is divided into a male half (saidin) and a female half (saidar), which work at the same time with and against each other. Only a man can draw on saidin, only a woman on saidar. Since the beginning of the Time of Madness, saidin has been tainted by the Dark One's touch. See also One Power."
+    },
+    {
+        "id": 147,
+        "title": "Tuatha'an",
+        "titleRaw": "Tuatha'an (too-AH-thah-AHN)",
+        "titlePhonetic": "too-AH-thah-AHN",
+        "content": "A wandering folk, also known as the Tinkers and as the Traveling People, who live in brightly painted wagons and follow a totally pacifist philosophy called the Way of the Leaf. Things mended by Tinkers are often better than new, but the Tuatha'an are shunned by many villages because of stories that they steal children and try to convert young people to their beliefs."
+    },
+    {
+        "id": 148,
+        "title": "Village Council",
+        "titleRaw": "Village Council",
+        "content": "In most villages a group of men, elected by the townsmen and headed by a Mayor, who are responsible for making decisions which affect the village as a whole and for negotiating with the Councils of other villages over matters which affect the villages jointly. They are at odds with the Women's Circle in so many villages that this conflict is seen as almost traditional. See also Women's Circle."
+    },
+    {
+        "id": 149,
+        "title": "War of the Hundred Years",
+        "titleRaw": "War of the Hundred Years",
+        "content": "A series of overlapping wars among constantly shifting alliances, precipitated by the death of Artur Hawkwing and the resulting struggle for his empire. It lasted from FY 994 to FY 1117. The war depopulated large parts of the lands between the Aryth Ocean and the Aiel Waste, from the Sea of Storms to the Great Blight. So great was the destruction that only fragmentary records of the time remain. The empire of Artur Hawkwing was pulled apart, and the nations of the present day were formed."
+    },
+    {
+        "id": 150,
+        "title": "War of the Shadow",
+        "titleRaw": "War of the Shadow",
+        "content": "Also known as the War of Power, it ended the Age of Legends. It began shortly after the attempt to free the Dark One, and soon involved the whole world. In a world where even the memory of war had been forgotten, every facet of war was rediscovered, often twisted by the Dark One's touch on the World, and the One Power was used as a weapon. The war was ended by the resealing of the Dark One into his prison."
+    },
+    {
+        "id": 151,
+        "title": "Warder",
+        "titleRaw": "Warder",
+        "content": "A warrior bonded to an Aes Sedai. The bonding is a thing of the One Power, and by it he gains such gifts as quick healing, the ability to go long periods without food, water or rest, and the ability to sense the taint of the Dark One at a distance. So long as a Warder lives, the Aes Sedai to whom he is bonded knows he is alive however far away he is, and when he dies she will know the moment and manner of his death. While most Ajahs believe an Aes Sedai may have one Warder bonded to her at a time, the Red Ajah refuses to bond any Warders at all, while the Green Ajah believes an Aes Sedai may bond as many Warders as she wishes. Ethically the Warder must accede to the bonding, but it has been known to be done involuntarily. What the Aes Sedai gain from the bonding is a closely-held secret. See also Aes Sedai."
+    },
+    {
+        "id": 152,
+        "title": "Web of Destiny",
+        "titleRaw": "Web of Destiny",
+        "content": "A great change in the Pattern of an Age, centered around one or more people who are ta'veren."
+    },
+    {
+        "id": 153,
+        "title": "Wheel of time, the",
+        "titleRaw": "Wheel of time, the",
+        "content": "Time is a wheel with seven spokes, each spoke an Age. As the Wheel turns, the Ages come and go, each leaving memories that fade to legend, then to myth, and are forgotten by the time that Age comes again. The Pattern of an Age is slightly different each time an Age comes, and each time it is subject to greater change, but each time it is the same Age."
+    },
+    {
+        "id": 154,
+        "title": "White Ajah",
+        "titleRaw": "White Ajah",
+        "content": "See Ajah."
+    },
+    {
+        "id": 155,
+        "title": "White Tower",
+        "titleRaw": "White Tower",
+        "content": "The palace of the Amyrlin Seat in Tar Valon."
+    },
+    {
+        "id": 156,
+        "title": "Whitecloaks",
+        "titleRaw": "Whitecloaks",
+        "content": "See Children of the Light."
+    },
+    {
+        "id": 157,
+        "title": "Wisdom",
+        "titleRaw": "Wisdom",
+        "content": "In villages, a woman chosen by the Women's Circle to sit in the Circle for her knowledge of such things as healing and foretelling the weather, as well as for common, good sense. A position of great responsibility and authority, both actual and implied. She is generally considered the equal of the Mayor, and in some villages his superior. Unlike the Mayor, she is chosen for life, and it is very rare for a Wisdom to be removed from office before her death. Almost traditionally in conflict with the Mayor. See also Women's Circle."
+    },
+    {
+        "id": 158,
+        "title": "Women's Circle",
+        "titleRaw": "Women's Circle",
+        "content": "A group of women elected by the women of a village, responsible for deciding such matters as are considered solely women's responsibility (for example, when to plant the crops and when to harvest). Equal in authority to the Village Council, with clearly-delineated lines and areas of responsibility. Often at odds with the Village Council. See also Village Council."
+    }
+]
