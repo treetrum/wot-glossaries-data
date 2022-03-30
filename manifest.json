@@ -1,0 +1,20 @@
+{
+    "books": [
+        {
+            "name": "The Eye of the World",
+            "data": "the-eye-of-the-world.json"
+        },
+        {
+            "name": "The Great Hunt",
+            "data": "the-great-hunt.json"
+        },
+        {
+            "name": "The Dragon Reborn",
+            "data": "the-dragon-reborn.json"
+        },
+        {
+            "name": "The Shadow Rising",
+            "data": "the-shadow-rising.json"
+        }
+    ]
+}
