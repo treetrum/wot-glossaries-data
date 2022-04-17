@@ -1,0 +1,996 @@
+[
+    {
+        "id": 0,
+        "title": "Accepted",
+        "titleRaw": "Accepted",
+        "content": "Young women in training to be Aes Sedai who have reached a certain level of power and passed certain tests. It normally takes five to ten years to be raised from novice to the Accepted. Accepted are somewhat less confined by rules than novices, and are allowed to choose their own areas of study, within limits. An Accepted has the right to wear a Great Serpent ring, but only on the third finger of her left hand. When an Accepted is raised to the Aes Sedai, she chooses her Ajah, gains the right to wear the shawl, and may wear the ring on any finger or not at all as circumstances warrant."
+    },
+    {
+        "id": 1,
+        "title": "a’dam",
+        "titleRaw": "a’dam (AYE-dam)",
+        "titlePhonetic": "AYE-dam",
+        "content": "A Seanchan device for controlling a woman who can channel, consisting of a collar and a bracelet linked by a leash all of silvery metal control. It has no effect on a woman who cannot channel. See also damane; Seanchan; sul’dam."
+    },
+    {
+        "id": 2,
+        "title": "Aes Sedai",
+        "titleRaw": "Aes Sedai (EYEZ seh-DEYE)",
+        "titlePhonetic": "EYEZ seh-DEYE",
+        "content": "Wielders of the One Power. Since the Time of Madness, all surviving Aes Sedai are women. Widely distrusted and feared, even hated, they are blamed by many for the Breaking of the World, and are thought to meddle in the affairs of nations. At the same time, few rulers will be without an Aes Sedai adviser, even in lands where the existence of such a connection must be kept secret. After some years of channeling the One Power, Aes Sedai take on an ageless quality, so that an Aes Sedai who is old enough to be a grandmother may show no signs of age except perhaps a few gray hairs. See also Ajah; Amyrlin Seat; Time of Madness."
+    },
+    {
+        "id": 3,
+        "title": "Age of Legends",
+        "titleRaw": "Age of Legends",
+        "content": "The Age ended by the War of the Shadow and the Breaking of the World. A time when Aes Sedai performed wonders now only dreamed of. See also Wheel of Time; Breaking of the World; War of the Shadow."
+    },
+    {
+        "id": 4,
+        "title": "Aiel",
+        "titleRaw": "Aiel (eye-EEL)",
+        "titlePhonetic": "eye-EEL",
+        "content": "The people of the Aiel Waste. Fierce and hardy. Also called Aielmen. They veil their faces before they kill. Deadly warriors with weapons or with nothing but their bare hands, they will not touch a sword. Their pipers play them into battle with the music of dances, and Aielmen call battle “the dance,” and “the dance of spears.” They are divided into twelve clans: the Chareen, the Codarra, the Daryne, the Goshien, the Miagoma, the Nakai, the Reyn, the Shaarad, the Shaido, the Shiande, the Taardad, and the Tomanelle. Sometimes they speak of a thirteenth clan, the Clan That Is Not, the Jenn, who were the builders of Rhuidean. See also Aiel warrior societies; Aiel Waste; Rhuidean."
+    },
+    {
+        "id": 5,
+        "title": "Aiel kinship terms",
+        "titleRaw": "Aiel kinship terms",
+        "content": "Aiel relationships of blood are expressed in complex ways which outsiders consider unwieldy, but which Aiel consider precise. A few examples must suffice to demonstrate, as an entire volume would be needed for a full explanation. First-brother and first-sister have the same mother. Second-brother and second-sister refer to the children of one’s mother’s first-sister or first-brother, and sister-mothers and sister-fathers are first-sisters and first-brothers of one’s mother. Greatfather or greatmother refers to the father or mother of one’s own mother, while the parents of one’s father are second greatfather or second greatmother; one is closer blood kin to one’s mother than father. Beyond this the complications grow and are thickened by such factors as the ability of close friends to adopt each other as first-brother or first-sister. When it is also considered that Aiel women who are close friends sometimes marry the same man, thus becoming sister-wives and married to each other as well as to him, the convolutions become even more apparent."
+    },
+    {
+        "id": 6,
+        "title": "Aiel War, the",
+        "titleRaw": "Aiel War, the",
+        "content": "(976-978 NE) When King Laman of Cairhien cut down Avendoraldera, several clans of the Aiel crossed the Spine of the World. They looted and burned the capital city of Cairhien as well as many other cities and towns, and the conflict extended into Andor and Tear. The conventional view is that the Aiel were finally defeated at the Battle of the Shining Walls, before Tar Valon, but in fact, Laman was killed in that battle, and having done what they came for, the Aiel recrossed the Spine. See also Avendoraldera; Cairhien; Spine of the World."
+    },
+    {
+        "id": 7,
+        "title": "Aiel warrior societies",
+        "titleRaw": "Aiel warrior societies",
+        "content": "Aiel warriors are all members of one of twelve societies. These are Black Eyes (Seia Doon), Brothers of the Eagle (Far Aldazar Din), Dawn Runners (Rahien Sorien), Knife Hands (Sovin Nai), Maidens of the Spear (Far Dareis Mai), Mountain Dancers (Hama N’dore), Night Spears (Cor Darei), Red Shields (Aethan Dor), Stone Dogs (Shae’en M’taal), Thunder Walkers (Sha’mad Conde), True Bloods (Tain Shari), and Water Seekers (Duahde Mahdi’in). Each society has its own customs, and sometimes specific duties. For example, Red Shields act as police. Stone Dogs are often used as rear guards during retreats, while Maidens are often scouts. Aiel clans frequently raid and battle one another, but members of the same society will not fight one another even if their clans do so. Thus there are always lines of contact between the clans even during open warfare. See also Aiel; Aiel Waste; Far Dareis Mai."
+    },
+    {
+        "id": 8,
+        "title": "Aiel Waste",
+        "titleRaw": "Aiel Waste",
+        "content": "Harsh, rugged, and all-but-waterless land east of the Spine of the World. Called the Three-fold Land by the Aiel. Few outsiders enter; the Aiel consider themselves at war with all other peoples and do not welcome strangers. Only peddlers, gleemen, and the Tuatha’an are allowed safe entry, although Aiel avoid all contact with the Tuatha’an, whom they call “the Lost Ones.” No maps of the Waste itself are known to exist."
+    },
+    {
+        "id": 9,
+        "title": "Ajah",
+        "titleRaw": "Ajah (AH-jah)",
+        "titlePhonetic": "AH-jah",
+        "content": "Societies among the Aes Sedai, seven in number and designated by colors: Blue, Red, White, Green, Brown, Yellow, and Gray. All Aes Sedai except the Amyrlin Seat belong to one. Each follows a specific philosophy of the use of the One Power and the purposes of the Aes Sedai. The Red Ajah bends all its energies to finding men who can channel, and to gentling them. The Brown Ajah forsakes involvement with the mundane world and dedicates itself to seeking knowledge, while the White Ajah, largely eschewing both the world and the value of worldly knowledge, devotes itself to questions of philosophy and truth. The Green Ajah (called the Battle Ajah during the Trolloc Wars) holds itself ready for Tarmon Gai’don, the Yellow concentrates on Healing, and Blue sisters involve themselves with causes and justice. The Gray are mediators, seeking harmony and consensus. Rumors of a Black Ajah, dedicated to serving the Dark One, are officially denied."
+    },
+    {
+        "id": 10,
+        "title": "Alviarin Freidhen",
+        "titleRaw": "Alviarin Freidhen (ahl-vee-AH-rihn FREYE-dhehn)",
+        "titlePhonetic": "ahl-vee-AH-rihn FREYE-dhehn",
+        "content": "An Aes Sedai of the White Ajah, now raised to Keeper of the Chronicles, second only to the Amyrlin Seat among Aes Sedai. A woman of cold logic and colder ambition."
+    },
+    {
+        "id": 11,
+        "title": "Amadicia",
+        "titleRaw": "Amadicia (ah-mah-DEE-cee-ah)",
+        "titlePhonetic": "ah-mah-DEE-cee-ah",
+        "content": "A nation lying south of the Mountains of Mist, between Tarabon and Altara. Its capital Amador (AH-mah-door) is the home of the Children of the Light, whose Lord Captain Commander has, in fact if not in name, more power than the king. Anyone with the ability to channel is outlawed in Amadicia; by law they are to be imprisoned or exiled, but in actuality they are often killed while “resisting arrest.” The banner of Amadicia is a six-pointed silver star overlaid on a red thistle on a field of blue. See also channel, Children of the Light."
+    },
+    {
+        "id": 12,
+        "title": "Amyrlin Seat",
+        "titleRaw": "Amyrlin Seat (AHM-ehr-lin SEAT)",
+        "titlePhonetic": "AHM-ehr-lin SEAT",
+        "content": "(1) Leader of the Aes Sedai. Elected for life by the Hall of the Tower, which consists of three representatives (called Sitters, as in “a Sitter for the Green”) from each Ajah. The Amyrlin Seat has, theoretically, almost supreme authority among the Aes Sedai, and ranks as the equal of a king or queen. A slightly less formal usage is “the Amyrlin”."
+    },
+    {
+        "id": 13,
+        "title": "Amys",
+        "titleRaw": "Amys (ah-MEESE)",
+        "titlePhonetic": "ah-MEESE",
+        "content": "Wise One of Cold Rocks Hold, and a dreamwalker. An Aiel of the Nine Valleys Sept of the Taardad Aiel. Wife of Rhuarc, sister-wife to Lian (lee-AHN), who is roofmistress of Cold Rocks Hold.  Amys is sister-mother to Aviendha."
+    },
+    {
+        "id": 14,
+        "title": "Andor",
+        "titleRaw": "Andor (AN-door)",
+        "titlePhonetic": "AN-door",
+        "content": "A wealthy land which stretches from the Mountains of Mist to the River Erinin, at least on a map, though the queen’s control has not reached further west than the River Manetherendrelle in several generations. See also Daughter-Heir."
+    },
+    {
+        "id": 15,
+        "title": "angreal",
+        "titleRaw": "angreal (anh-gree-AHL)",
+        "titlePhonetic": "anh-gree-AHL",
+        "content": "Remnants of the Age of Legends that allow anyone capable of channeling the One Power to handle a greater amount of the Power than would be safely possible unaided. Some were made for use by women, others by men. Rumors of angreal usable by both men and women have never been confirmed. Their making is no longer known, and few remain in existence. See also channel; sa’angreal; ter’angreal."
+    },
+    {
+        "id": 16,
+        "title": "Arad Doman",
+        "titleRaw": "Arad Doman (AH-rad do-MAHN)",
+        "titlePhonetic": "AH-rad do-MAHN",
+        "content": "Nation on the Aryth Ocean. Presently wracked by civil war and simultaneously by wars against those who have declared for the Dragon Reborn and against Tarabon. Most Domani merchants are women, and according to the saying, to “let a man trade with a Domani” is to do something extremely foolish. Domani women are famous—or infamous—for their beauty, seductiveness, and scandalous clothes."
+    },
+    {
+        "id": 17,
+        "title": "Artur Hawkwing",
+        "titleRaw": "Artur Hawkwing",
+        "content": "Legendary king, Artur Paendrag Tanreall (AHR-tuhr PAY-ehn-DRAG tahn-REE-ahl) Ruled FY 943-994. United all the lands west of the Spine of the World. Sent armies across the Aryth Ocean (FY 992), but contact with these was lost at his death, which set off the War of the Hundred Years. His sign was a golden hawk in flight. See also War of the Hundred Years."
+    },
+    {
+        "id": 18,
+        "title": "Avendesora",
+        "titleRaw": "Avendesora (AH-vehn-deh-S0-rah)",
+        "titlePhonetic": "AH-vehn-deh-S0-rah",
+        "content": "In the Old Tongue, “the Tree of Life.” Mentioned in many stories and legends, which give various locations. Its true location is known only to a few."
+    },
+    {
+        "id": 19,
+        "title": "Avendoraldera",
+        "titleRaw": "Avendoraldera (AH-ven-doh-ral-DEH-rah)",
+        "titlePhonetic": "AH-ven-doh-ral-DEH-rah",
+        "content": "A tree grown in the city of Cairhien from a sapling of Avendesora, a gift from the Aiel in 566 NE, although no record shows any connection whatsoever between the Aiel and Avendesora. See also Aiel War."
+    },
+    {
+        "id": 20,
+        "title": "Aviendha",
+        "titleRaw": "Aviendha (Ah-vee-EHN-dah)",
+        "titlePhonetic": "Ah-vee-EHN-dah",
+        "content": "A woman of the Nine Valleys sept of the Taardad Aiel, in training to be a Wise One. She fears nothing, except her fate."
+    },
+    {
+        "id": 21,
+        "title": "Bair",
+        "titleRaw": "Bair (BAIR)",
+        "titlePhonetic": "BAIR",
+        "content": "A Wise One of the Haido sept of the Shaarad Aiel. A dreamwalker."
+    },
+    {
+        "id": 22,
+        "title": "Berelain sur Paendraeg",
+        "titleRaw": "Berelain sur Paendraeg (BEH-reh-lain suhr PAY-en-DRAG)",
+        "titlePhonetic": "BEH-reh-lain suhr PAY-en-DRAG",
+        "content": "First of Mayene, Blessed of the Light, Defender of the Waves, High Seat of House Paeron (pay-eh-ROHN). A beautiful and willful young woman, and a skillful ruler. She will have what she wants, whatever it takes, and she always keeps her word. See Mayene."
+    },
+    {
+        "id": 23,
+        "title": "Birgitte",
+        "titleRaw": "Birgitte (ber-GEET-teh)",
+        "titlePhonetic": "ber-GEET-teh",
+        "content": "Hero of legend and story, renowned for her beauty almost as much as for her bravery and skill at archery. Carried a silver bow and silver arrows, with which she never missed. One of the heroes called back when the Horn of Valere is sounded. Always linked with the hero-swordsman, Gaidal Cain. See also Cain, Gaidal; Horn of Valere."
+    },
+    {
+        "id": 24,
+        "title": "Blight, the",
+        "titleRaw": "Blight, the",
+        "content": "See Great Blight, the."
+    },
+    {
+        "id": 25,
+        "title": "Borderlands, the",
+        "titleRaw": "Borderlands, the",
+        "content": "The nations bordering the Great Blight. Saldaea, Arafel, Kandor, and Shienar. Their history is one of unending raids and war against Trollocs and Myrddraal. See also Great Blight."
+    },
+    {
+        "id": 26,
+        "title": "Breaking of the World, the",
+        "titleRaw": "Breaking of the World, the",
+        "content": "During the Time of Madness, male Aes Sedai who had gone insane, and who could wield the One Power to a degree now unknown, changed the face of the earth. They caused great earthquakes, leveled old mountain ranges and raised new mountains, lifted dry land where seas had been and made the ocean rush in where dry land had been. Many parts of the world were completely depopulated, and the survivors were scattered like dust on the wind. This destruction is remembered in stories, legends, and history as the Breaking of the World. See also Time of Madness."
+    },
+    {
+        "id": 27,
+        "title": "Breane Taborwin",
+        "titleRaw": "Breane Taborwin (bree-AN tah-BOR-wihn)",
+        "titlePhonetic": "bree-AN tah-BOR-wihn",
+        "content": "Formerly a high-ranking lady of Cairhien, now a penniless refugee who has found happiness with the sort of man she once had servants flog out of her sight."
+    },
+    {
+        "id": 28,
+        "title": "cadin’sor",
+        "titleRaw": "cadin’sor (KAH-dihn-sohr)",
+        "titlePhonetic": "KAH-dihn-sohr",
+        "content": "Garb of Aiel warriors; coat and breeches in browns and grays that fade into rock or shadow, along with soft, laced knee-high boots. In the Old Tongue, “working clothes.”"
+    },
+    {
+        "id": 29,
+        "title": "Caemlyn",
+        "titleRaw": "Caemlyn (KAYM-lihn)",
+        "titlePhonetic": "KAYM-lihn",
+        "content": "The capital city of Andor."
+    },
+    {
+        "id": 30,
+        "title": "Cairhien",
+        "titleRaw": "Cairhien (KEYE-ree-EHN)",
+        "titlePhonetic": "KEYE-ree-EHN",
+        "content": "Both a nation along the Spine of the World and the capital city of that nation. The city was burned and looted during the Aiel War, as were many other towns and villages. The subsequent abandonment of farmland near the Spine of the World made necessary the importation of great quantities of grain. The assassination of King Galldrian (998 NE) resulted in a civil war for succession to the Sun Throne, causing the disruption of grain shipments and famine. The sign of Cairhien is a many-rayed golden sun rising from the bottom of a field of sky blue."
+    },
+    {
+        "id": 31,
+        "title": "Callandor",
+        "titleRaw": "Callandor (CAH-lahn-DOOR)",
+        "titlePhonetic": "CAH-lahn-DOOR",
+        "content": "The Sword That Is Not A Sword, the Sword That Cannot Be Touched. Crystal sword once held in the Stone of Tear. A powerful male sa’angreal. Its removal from the chamber called the Heart of the Stone was, along with the fall of the Stone, a major sign of the Dragon’s Rebirth and the approach of Tarmon Gai’don. Replaced in the Heart, driving into the stone, by Rand a’Thor. See also Dragon Reborn, the; sa’angreal; Stone of Tear, the."
+    },
+    {
+        "id": 32,
+        "title": "channel",
+        "titleRaw": "channel (verb)",
+        "titlePhonetic": "verb",
+        "content": "To control the flow of the One Power. See also One Power."
+    },
+    {
+        "id": 33,
+        "title": "Children of the Light",
+        "titleRaw": "Children of the Light",
+        "content": "A society holding strict ascetic beliefs, dedicated to the defeat of the Dark One and the destruction of all Darkfriends. Founded during the War of the Hundred Years by Lothair Mantelar (LOH-thayr MAHN-tee-LAHR) to proselytize against an increase in Darkfriends, they evolved during the war into a completely military organization, extremely rigid in their beliefs, and completely certain that only they know the truth and the right. They hate Aes Sedai, considering them, and any who support or befriend them, Darkfriends. They are known disparagingly as Whitecloaks. Their sign is a golden sunburst on a field of white. See also Questioners."
+    },
+    {
+        "id": 34,
+        "title": "Colavaere",
+        "titleRaw": "Colavaere (COH-lah-veer)",
+        "titlePhonetic": "COH-lah-veer",
+        "content": "A high-ranking lady of Cairhien, manipulative and scheming, which is to describe Cairhienin nobility in general, who has so much power that she sometimes forgets her own vulnerability to a greater."
+    },
+    {
+        "id": 35,
+        "title": "Couladin",
+        "titleRaw": "Couladin (COO-lah-dihn)",
+        "titlePhonetic": "COO-lah-dihn",
+        "content": "An ambitious man of the Domai sept of the Shaido Aiel. His warrior society is Seia Doon, the Black Eyes."
+    },
+    {
+        "id": 36,
+        "title": "cuendillar",
+        "titleRaw": "cuendillar (CWAIN-deh-yar)",
+        "titlePhonetic": "CWAIN-deh-yar",
+        "content": "An indestructible substance created during the Age of Legends. Any force used in an attempt to break it is absorbed, making cuendillar stronger. Also called heartstone."
+    },
+    {
+        "id": 37,
+        "title": "damane",
+        "titleRaw": "damane (dah-MAHN-ee)",
+        "titlePhonetic": "dah-MAHN-ee",
+        "content": "In the Old Tongue, literally “leashed one.” Seanchan term for women who can channel and who are, as they see it, properly controlled by use of a’dam. Women who can channel but who have not yet been made damane are called marath’damane, literally “those who must be leashed.” See also a’dam; Seanchan; sul’dam."
+    },
+    {
+        "id": 38,
+        "title": "Darkfriends",
+        "titleRaw": "Darkfriends",
+        "content": "Adherets of the Dark One. They believe they will gain great power and rewards, and even immortality, when he is freed."
+    },
+    {
+        "id": 39,
+        "title": "Dark One",
+        "titleRaw": "Dark One",
+        "content": "Most common name, used in every land, for Shai’tan (SHAY-ih-TAN). The source of evil, antithesis of the Creator. Imprisoned by the Creator in Shayol Ghul at the moment of Creation. An attempt to free him brought about the War of the Shadow, the tainting of saidin, the Breaking of the World, and the end of the Age of Legends."
+    },
+    {
+        "id": 40,
+        "title": "Dark One, naming the",
+        "titleRaw": "Dark One, naming the",
+        "content": "Saying the true name of the Dark One (Shai’tan) draws his attention, inevitably bringing ill fortune at best, disaster at worst. For that reason, many euphemisms are used, among them the Dark One, Father of Lies, Sightblinder, Lord of the Grave, Shepherd of the Night, Heartsbane, Soulsbane, Heartfang, Old Grim, Grassburner, and Leafblighter. Darkfriends call him the Great Lord of the Dark. Someone who seems to be inviting ill fortune is often said to be “naming the Dark One.”"
+    },
+    {
+        "id": 41,
+        "title": "Daughter-Heir",
+        "titleRaw": "Daughter-Heir",
+        "content": "Title of the heir to the Lion Throne of Andor. Without a surviving daughter, the throne goes to the nearest female blood relation of the Queen. Dissension over exactly who was nearest by blood has several times led to power struggles, the latest being “the Succession”—so called in Andor and “the Third War of Andoran Succession” elsewhere—which brought Morgase of House Trakand to the throne."
+    },
+    {
+        "id": 42,
+        "title": "Dobraine",
+        "titleRaw": "Dobraine (doh-BRAIN) of House Taborwin (tah-BOHR-wihn)",
+        "titlePhonetic": "doh-BRAIN",
+        "content": "A high-ranking lord of Cairhien who believes in keeping the letter of his oaths."
+    },
+    {
+        "id": 43,
+        "title": "Dragon, false",
+        "titleRaw": "Dragon, false",
+        "content": "Occasionally men claim to be the Dragon Reborn, and sometimes one of them gains following enough to require an army to put it down. Some have begun wars that involved many nations. Over the centuries most of these have been men unable to channel the One Power, but a few could do so. All, however, either disappeared or were captured or killed without fulfilling any of the Prophecies concerning the Rebirth of the Dragon. These men are called false Dragons. Among those who could channel, the most powerful were Raolin Darksbane (335-36AB), Yurian Stonebow (circa 1300-1308 AB), Davian (FY 351), Guaire Amalasan (FY 939-43), and Logain (997 NE). See also Dragon Reborn."
+    },
+    {
+        "id": 44,
+        "title": "Dragon, Prophecies of the",
+        "titleRaw": "Dragon, Prophecies of the",
+        "content": "Generally little known and seldom spoken of, the Prophecies, given in The Karaethon Cycle (ka-REE-ah-thon), foretell that the Dark One will be freed again to touch the world. And that Lews Therin Telamon, the Dragon, Breaker of the World, will be reborn to fight Tarmon Gai’don, the Last Battle against the Shadow. He will, say the Prophecies, save the world—and Break it again. See also Dragon, the."
+    },
+    {
+        "id": 45,
+        "title": "Dragon, the",
+        "titleRaw": "Dragon, the",
+        "content": "The name by which Lews Therin Telamon was known during the War of the Shadow. In the madness that overtook all male Aes Sedai, Lews Therin killed every living person who carried any of his blood, as well as everyone he loved, thus earning the name Kinslayer. See also Hundred Companions, the; Dragon Reborn; Dragon, Prophecies of the."
+    },
+    {
+        "id": 46,
+        "title": "Dragon Reborn",
+        "titleRaw": "Dragon Reborn",
+        "content": "According to the Prophecies of the Dragon, the man who is the Rebirth of Lews Therin Kinslayer. See also Dragon, the; Dragon, false; Dragon, Prophecies of the."
+    },
+    {
+        "id": 47,
+        "title": "Dragonwall",
+        "titleRaw": "Dragonwall",
+        "content": "See Spine of the World."
+    },
+    {
+        "id": 48,
+        "title": "Dreamer",
+        "titleRaw": "Dreamer",
+        "content": "See Talents."
+    },
+    {
+        "id": 49,
+        "title": "dreamwalker",
+        "titleRaw": "dreamwalker",
+        "content": "Aiel name for a woman able to enter Tel’aran’rhiod."
+    },
+    {
+        "id": 50,
+        "title": "Egwene al’Vere",
+        "titleRaw": "Egwene al’Vere (eh-GWAIN ahl-VEER)",
+        "titlePhonetic": "eh-GWAIN ahl-VEER",
+        "content": "A young woman from Emond’s Field, in the Two Rivers district of Andor. Now one of the Accepted, she is in training with Aiel dreamwalkers and is possibly a Dreamer. See also dreamwalker; Talents."
+    },
+    {
+        "id": 51,
+        "title": "Elaida do Avriny a’Roihan",
+        "titleRaw": "Elaida do Avriny a’Roihan (eh-LY-da doh AHV-rih-nee ah-ROY-han)",
+        "titlePhonetic": "eh-LY-da doh AHV-rih-nee ah-ROY-han",
+        "content": "An Aes Sedai, formerly of the Red Ajah, now raised to the Amyrlin Seat. Once advisor to Queen Morgase of Andor. She sometimes has the Foretelling."
+    },
+    {
+        "id": 52,
+        "title": "Elayne",
+        "titleRaw": "Elayne (ee-LAIN) of House Trakand (trah-KAND)",
+        "titlePhonetic": "ee-LAIN",
+        "content": "Queen Morgase’s daughter, the Daughter-Heir to the Throne of Andor. Now one of the Accepted. Her sign is a golden lily."
+    },
+    {
+        "id": 53,
+        "title": "Enaila",
+        "titleRaw": "Enaila (eh-NYE-lah)",
+        "titlePhonetic": "eh-NYE-lah",
+        "content": "A Maiden of the Spear. Of the Jarra sept of the Chareen Aiel. Touchy concerning her height, she has a remarkable attitude toward Rand al’Thor considering that she is no more than a year older than he."
+    },
+    {
+        "id": 54,
+        "title": "Faile",
+        "titleRaw": "Faile (fah-EEL)",
+        "titlePhonetic": "fah-EEL",
+        "content": "In the Old Tongue, means “falcon.” Name assumed by Zarine Bashere (zah-REEN bah-SHEER), a young woman from Saldaea."
+    },
+    {
+        "id": 55,
+        "title": "Far Dareis Mai",
+        "titleRaw": "Far Dareis Mai (FAHR DAH-rize MY)",
+        "titlePhonetic": "FAHR DAH-rize MY",
+        "content": "Literally “Maidens of the Spear.” A warrior society of the Aiel, which, unlike any other, admits women and only women. A Maiden may not marry and remain in the society, nor may she fight while carrying a child. Any child born to a Maiden is given to another woman to raise, in such a way that no one knows the child’s mother. (”You may belong to no man, nor may any man belong to you, nor any child. The spear is your lover, your child, and your life.”) See also Aiel; Aiel warrior societies."
+    },
+    {
+        "id": 56,
+        "title": "Five Powers, the",
+        "titleRaw": "Five Powers, the",
+        "content": "There are threads to the One Power, named according to the sorts of things that can be done using them—Earth, Air (sometimes called Wind), Fire, Water, and Spirit, which are called the Five Powers. Any wielder of the Power will have a greater degree of strength with one, or possibly two, of these, and lesser with the others. In the Age of Legends, Spirit was found equally in men and in women, great ability with Earth and/or Fire was found much more often among men, with Water and/or Air among women. Despite exceptions, it was so often so that Earth and Fire came to be regarded as male Powers, Air and Water as female."
+    },
+    {
+        "id": 57,
+        "title": "Flame of Tar Valon",
+        "titleRaw": "Flame of Tar Valon",
+        "content": "The symbol of Tar Valon, the Amyrlin Seat, and the Aes Sedai. A stylized representation of a flame; a white teardrop with the point upward."
+    },
+    {
+        "id": 58,
+        "title": "Forsaken, the",
+        "titleRaw": "Forsaken, the",
+        "content": "Name given to thirteen of the most powerful Aes Sedai of the Age of Legends, thus among the most powerful ever known, who went over to the Dark One during the War of the Shadow in return for the promise of immortality. Their own name for themselves was “The Chosen.” According to both legend and fragmentary records, they were imprisoned along with the Dark One when his prison was resealed. The names given to them are still used to frighten children. They were: Aginor (AGH-in-nohr), Asmodean (ahs-MOH-dee-an), Balthamel (BAAL-tha-mell), Be’lal (BEH-lal), Demandred (DEE-man-drehd), Graendal (GREHN-dahl), Ishamael (ih-SHAH-may-EHL), Lanfear (LAN-feer), Mesaana (meh-SAH-nah), Moghedien (moh-GHEH-dee-em), Rahvin (RAAV-ihn), Sammael (SAHM-may-EHL), and Semirhage (SEH-mih-RHAHG)."
+    },
+    {
+        "id": 59,
+        "title": "Gaidal Cain",
+        "titleRaw": "Gaidal Cain (GAY-dahl KAIN )",
+        "titlePhonetic": "GAY-dahl KAIN",
+        "content": "Hero-swordsman of legend and story, always linked to Birgitte and said to be as handsome as she was beautiful. Said to be invincible when his feet were on his native soil. One of the heroes supposed to be called back when the Horn of Valere is sounded. See also Birgitte; Horn of Valere."
+    },
+    {
+        "id": 60,
+        "title": "Gaidin",
+        "titleRaw": "Gaidin (GYE-deen)",
+        "titlePhonetic": "GYE-deen",
+        "content": "Literally, “Brother to Battles.” A title used by Aes Sedai for the Warders. See also Warder."
+    },
+    {
+        "id": 61,
+        "title": "gai’shain",
+        "titleRaw": "gai’shain (GYE-shain)",
+        "titlePhonetic": "GYE-shain",
+        "content": "In the Old Tongue, “Pledged to Peace in Battle.” An Aiel taken prisoner by other Aiel during raid or battle is required by ji’e’toh to server his or her captor humbly and obediently for one year and a day, touching no weapon and doing no violence. A Wise One, a blacksmith, a child or a woman with a child under the age of ten may not be made gai’shain."
+    },
+    {
+        "id": 62,
+        "title": "Galad",
+        "titleRaw": "Galad (gah-LAHD) Lord Galadedrid Damodred (gah-LAHD-eh-drihd DAHM-oh-drehd)",
+        "titlePhonetic": "gah-LAHD",
+        "content": "Called Galad. Half-brother to Elayne and Gawyn, sharing the same father, Taringail (TAH-rihn-gail) Damodred. His sign is a winged silver sword, point down."
+    },
+    {
+        "id": 63,
+        "title": "Game of Houses, the",
+        "titleRaw": "Game of Houses, the",
+        "content": "Name given the scheming, plots, and manipulations for advantage by the noble Houses. Great value is given to subtlety, to aiming at one thing while seeming to aim at another, and to achieving ends with the least visible effort. Also known as the Great Game, and sometimes by its name in the Old Tongue: Daes Dae’mar (DAH-ess day-MAR)."
+    },
+    {
+        "id": 64,
+        "title": "Gareth Bryne",
+        "titleRaw": "Gareth Bryne (GAH-reth BRIHN)",
+        "titlePhonetic": "GAH-reth BRIHN",
+        "content": "Once Captain-General of the Queen’s Guards in Andor. Exiled by Queen Morgase. Considered one of the greatest generals living. The sigil of House Bryne is a wild bull, the rose crown of Andor around its neck. Gareth Bryne’s personal sigil is three golden stars, each of five rays."
+    },
+    {
+        "id": 65,
+        "title": "Gawyn",
+        "titleRaw": "Gawyn (GAH-wihn) of House Trakand (trah-KAND)",
+        "titlePhonetic": "GAH-wihn",
+        "content": "Queen Morgase’s son, and Elayne’s brother, who will be First Prince of the Sword when Elayne ascends to the throne. His sign is a white boar."
+    },
+    {
+        "id": 66,
+        "title": "gentling",
+        "titleRaw": "gentling",
+        "content": "The act, performed by Aes Sedai, of shutting off a male who can channel from the One Power. This is necessary because any man who learns to channel will go insane from the taint on saidin and will almost certainly do horrible things with the Power in his madness. A man who has been gentled can still sense the True Source, but he cannot touch it. Whatever madness has come before gentling is arrested by the act of gentling, but not cured by it, and if it is done soon enough death can be averted. See also One Power; stilling."
+    },
+    {
+        "id": 67,
+        "title": "gleeman",
+        "titleRaw": "gleeman",
+        "content": "A traveling storyteller, musician, juggler, tumbler, and all-around entertainer. Known by their trademark cloaks of many-colored patches, they perform mainly in the villages and smaller towns."
+    },
+    {
+        "id": 68,
+        "title": "Great Blight, the",
+        "titleRaw": "Great Blight, the",
+        "content": "A region in the far north, entirely corrupted by the Dark One. A haunt of Trollocs, Myrddraal, and other creatures of the Shadow."
+    },
+    {
+        "id": 69,
+        "title": "Great Lord of the Dark",
+        "titleRaw": "Great Lord of the Dark",
+        "content": "The name by which Darkfriends refer to the Dark One, claiming that to use his true name would be blasphemous."
+    },
+    {
+        "id": 70,
+        "title": "Great Serpent",
+        "titleRaw": "Great Serpent",
+        "content": "A symbol for time and eternity, ancient before the Age of Legends began, consisting of a serpent eating its own tail. A ring in the shape of the Great Serpent is awarded to women who have been raised to the Accepted among the Aes Sedai."
+    },
+    {
+        "id": 71,
+        "title": "High Lords of Tear",
+        "titleRaw": "High Lords of Tear",
+        "content": "Acting as a council, the High Lords are the rules of the nation of Tear, which has neither king nor queen. Their numbers are not fixed, and have varied over the years from as many as twenty to as few as six. Not to be confused with the Lords of the Land, who are lesser Tairen lords."
+    },
+    {
+        "id": 72,
+        "title": "Horn of Valere",
+        "titleRaw": "Horn of Valere (vah-LEER)",
+        "titlePhonetic": "vah-LEER",
+        "content": "The legendary object of The Great Hunt of the Horn. The Horn supposedly can call back dead heroes from the grave to fight against the Shadow. A new Hunt of the Horn has been called, and sworn Hunters for the Horn can now be found in many nations."
+    },
+    {
+        "id": 73,
+        "title": "Illian",
+        "titleRaw": "Illian (IHL-lee-ahn)",
+        "titlePhonetic": "IHL-lee-ahn",
+        "content": "A great port on the Sea of Storms, capital city of the nation of the same name."
+    },
+    {
+        "id": 74,
+        "title": "Isendre",
+        "titleRaw": "Isendre (ih-SEHN-dreh)",
+        "titlePhonetic": "ih-SEHN-dreh",
+        "content": "A beautiful and greedy woman who angered the wrong woman and for once in her life told the truth when she denied stealing."
+    },
+    {
+        "id": 75,
+        "title": "ji’e’toh",
+        "titleRaw": "ji’e’toh (jih-eh-toh)",
+        "titlePhonetic": "jih-eh-toh",
+        "content": "In the Old Tongue, “honor and obligation” or “honor and duty.” The complex code by which Aiel live, and which would take a shelf of volumes to explain. By way of small example, there are many paths to gain honor in battle. The smallest is to kill, for anyone can kill. The greatest is to touch an armed and living enemy without causing harm. Somewhere in the middle is to make an enemy gai’shain. For another example, shame, which also has many levels in ji’e’toh, is considered on many of those levels to be worse than pain, injury or even death. For a third, there are, again, many degrees of toh, or obligation, but even the smallest of these must be met in full. Toh outweighs other considerations to the extent that an Aiel will often accept shame, if necessary, to fulfill an obligation that might seem minor to an outlander.  See also gai’shain."
+    },
+    {
+        "id": 76,
+        "title": "Juilin Sandar",
+        "titleRaw": "Juilin Sandar (JUY-lihn sahn-DAHR)",
+        "titlePhonetic": "JUY-lihn sahn-DAHR",
+        "content": "A thief-catcher from Tear."
+    },
+    {
+        "id": 77,
+        "title": "Kadere, Hadnan",
+        "titleRaw": "Kadere, Hadnan (kah-DEER, HAHD-nahn)",
+        "titlePhonetic": "kah-DEER, HAHD-nahn",
+        "content": "A supposed peddler who regrets ever having entered the Aiel Waste."
+    },
+    {
+        "id": 78,
+        "title": "Lamgwin Dorn",
+        "titleRaw": "Lamgwin Dorn (lam-GWIHN DOHRN)",
+        "titlePhonetic": "lam-GWIHN DOHRN",
+        "content": "A street tough and brawler who is loyal to his queen."
+    },
+    {
+        "id": 79,
+        "title": "Lan; al’Lan Mandragoran",
+        "titleRaw": "Lan; al’Lan Mandragoran (AHL-LAN man-DRAG-or-an)",
+        "titlePhonetic": "AHL-LAN man-DRAG-or-an",
+        "content": "A Warder, bonded to Moiraine. Uncrowned King of Malkier, Dai Shan (Battle Lord), and the last surviving Malkieri lord. See also Warder; Moiraine; Malkier."
+    },
+    {
+        "id": 80,
+        "title": "Lanfear",
+        "titleRaw": "Lanfear (LAN-fear)",
+        "titlePhonetic": "LAN-fear",
+        "content": "In the Old Tongue, “Daughter of the Night.” One of the Forsaken, perhaps the most powerful next to Ishamael. Unlike the other Forsaken, she chose this name herself. She is said to have been in love with Lews Therin Telamon, and to have hated his wife, Ilyena. See also Forsaken; Dragon, the."
+    },
+    {
+        "id": 81,
+        "title": "Leane Sharif",
+        "titleRaw": "Leane Sharif (lee-AHN-eh shah-REEF)",
+        "titlePhonetic": "lee-AHN-eh shah-REEF",
+        "content": "Once an Aes Sedai of the Blue Ajah and Keeper of the Chronicles. Now deposed and stilled, seeking do rediscover who she is. See also Ajah."
+    },
+    {
+        "id": 82,
+        "title": "Length, units of",
+        "titleRaw": "Length, units of",
+        "content": "10 inches = 3 hands = 1 foot; 3 feet = 1 pace; 2 paces = 1 span; 1000 spans = 1 mile; 4 miles = 1 league."
+    },
+    {
+        "id": 83,
+        "title": "Lews Therin Telamon; Lews Therin Kinslayer",
+        "titleRaw": "Lews Therin Telamon; Lews Therin Kinslayer",
+        "content": "See Dragon, the."
+    },
+    {
+        "id": 84,
+        "title": "Liandrin",
+        "titleRaw": "Liandrin (lee-AHN-drihn)",
+        "titlePhonetic": "lee-AHN-drihn",
+        "content": "An Aes Sedai formerly of the Red Ajah, from Tarabon. Now known to be of the Black Ajah."
+    },
+    {
+        "id": 85,
+        "title": "Lini",
+        "titleRaw": "Lini (LIHN-nee)",
+        "titlePhonetic": "LIHN-nee",
+        "content": "Childhood nurse to the Lady Elayne, and before her to Elayne’s mother, Morgase, as well as to Morgase’s mother. A woman of vast inner strength, considerable perception, and a great many sayings."
+    },
+    {
+        "id": 86,
+        "title": "Logain",
+        "titleRaw": "Logain (loh-GAIN)",
+        "titlePhonetic": "loh-GAIN",
+        "content": "A man who once claimed to be the Dragon Reborn, now gentled. See also Dragon, false."
+    },
+    {
+        "id": 87,
+        "title": "Lugard",
+        "titleRaw": "Lugard (LOO-gahrd)",
+        "titlePhonetic": "LOO-gahrd",
+        "content": "Nominally the capital of Murandy, though that country is a quilt of loyalties to towns and individual lords and ladies, and whoever sits on the throne seldom has any real control over even the city. Lugard is a major trade center, and a byword for thievery, licentiousness and general disrepute."
+    },
+    {
+        "id": 88,
+        "title": "Macura, Ronde",
+        "titleRaw": "Macura, Ronde (mah-CURE-ah, rohn-deh)",
+        "titlePhonetic": "mah-CURE-ah, rohn-deh",
+        "content": "A seamstress in Amadicia who tried to serve too many masters and mistresses without knowing who they all were."
+    },
+    {
+        "id": 89,
+        "title": "Maighande",
+        "titleRaw": "Maighande (mye-GHAN-deh)",
+        "titlePhonetic": "mye-GHAN-deh",
+        "content": "One of the greatest battles of the Trolloc Wars. The victory of humankind here began the long push that finally drove the Trollocs back to the Great Blight. See also Great Blight, Trolloc Wars."
+    },
+    {
+        "id": 90,
+        "title": "Malkier",
+        "titleRaw": "Malkier (mahl-KEER)",
+        "titlePhonetic": "mahl-KEER",
+        "content": "A nation, once one of the Borderlands, now consumed by the Blight. The sign of Malkier was a golden crane in flight."
+    },
+    {
+        "id": 91,
+        "title": "Manetheren",
+        "titleRaw": "Manetheren (mahn-EHTH-ehr-ehn)",
+        "titlePhonetic": "mahn-EHTH-ehr-ehn",
+        "content": "One of the Ten Nations that made the Second Covenant, and also the capital city of that nation. Both city and nation were utterly destroyed in the Trolloc Wars. See also Trolloc Wars."
+    },
+    {
+        "id": 92,
+        "title": "Mat Cauthon",
+        "titleRaw": "Mat Cauthon (MAT CAW-thon)",
+        "titlePhonetic": "MAT CAW-thon",
+        "content": "A young man from Emond’s Field in the Two Rivers district of Andor, who is ta’veren and also extremely lucky. Full name: Matrim (MAT-rihm) Cauthon."
+    },
+    {
+        "id": 93,
+        "title": "Mayene",
+        "titleRaw": "Mayene (may-EHN)",
+        "titlePhonetic": "may-EHN",
+        "content": "City-state on the Sea of Storms that derives its wealth and its independence from knowledge of where to find the oilfish shoals, which rival in economic importance the olive groves of Tear, Illian, and Tarabon. Oilfish and olives provide nearly all lamp oil. The current ruler of Mayne is Berelain, the First of Mayene. The Rulers of Mayene claim to be descendants of Artur Hawkwing. The sign of Mayne is a golden hawk in flight."
+    },
+    {
+        "id": 94,
+        "title": "Mazrim Taim",
+        "titleRaw": "Mazrim Taim (MAHZ-rihm tah-EEM)",
+        "titlePhonetic": "MAHZ-rihm tah-EEM",
+        "content": "A false Dragon who raised havoc in Saldaea until he was defeated and captured. Not only able to channel, but supposedly of great strength. See also Dragon, false."
+    },
+    {
+        "id": 95,
+        "title": "Meilan",
+        "titleRaw": "Meilan (MYE-lan) of House Mendiana (mehn-dee-AH-nah)",
+        "titlePhonetic": "MYE-lan",
+        "content": "A High Lord of Tear. A competent general, but a man of ambitions and hates. See also High Lords of Tear."
+    },
+    {
+        "id": 96,
+        "title": "Melaine",
+        "titleRaw": "Melaine (meh-LAYN)",
+        "titlePhonetic": "meh-LAYN",
+        "content": "A Wise One of the Jhirad sept of the Goshien Aiel. A dreamwalker. See also dreamwalker."
+    },
+    {
+        "id": 97,
+        "title": "Melindhra",
+        "titleRaw": "Melindhra (meh-LIHN-dhrah)",
+        "titlePhonetic": "meh-LIHN-dhrah",
+        "content": "A Maiden of the Spear, of the Jumai sept of the Shaido Aiel. A woman of divided loyalties. See also Aiel warrior societies."
+    },
+    {
+        "id": 98,
+        "title": "Min",
+        "titleRaw": "Min (MIN)",
+        "titlePhonetic": "MIN",
+        "content": "A young woman with the ability to read things about people in the auras and images she sometimes sees surrounding them."
+    },
+    {
+        "id": 99,
+        "title": "Moiraine",
+        "titleRaw": "Moiraine (mwah-RAIN)",
+        "titlePhonetic": "mwah-RAIN",
+        "content": "An Aes Sedai of the Blue Ajah. Born in House Damodred, though not in line of succession to the throne, and raised in the Royal Palace. Rarely uses her House name, and keeps her association with it as secret as possible."
+    },
+    {
+        "id": 100,
+        "title": "Morgase",
+        "titleRaw": "Morgase (moor-GAYZ)",
+        "titlePhonetic": "moor-GAYZ",
+        "content": "By the Grace of the Light, Queen of Andor, Defender of the Realm, Protector of the People, High Seat of House Trakand. Her sign is three golden keys. The sign of House Trakand is a silver keystone."
+    },
+    {
+        "id": 101,
+        "title": "Myrddraal",
+        "titleRaw": "Myrddraal (MUHRD-draal)",
+        "titlePhonetic": "MUHRD-draal",
+        "content": "Creatures of the Dark One, commanders of the Trollocs. Twisted offspring of Trollocs in which the human stock used to create the Trollocs has resurfaced, but tainted by the evil that made the Trollocs. Physically they are like men except they have no eyes, but can see like eagles in light or dark. They have certain powers stemming from the Dark One, including the ability to cause paralyzing fear with a look and the ability to vanish wherever there are shadows. One of their few known weaknesses is that they are reluctant to cross running water. In different lands they are known by many names, among them Halfman, the Eyeless, Shadowman, Lurk, Fetch, and Fade."
+    },
+    {
+        "id": 102,
+        "title": "Natael, Jasin",
+        "titleRaw": "Natael, Jasin (nah-TAYL, JAY-sihn)",
+        "titlePhonetic": "nah-TAYL, JAY-sihn",
+        "content": "Name used by Asmodean, one of the Forsaken."
+    },
+    {
+        "id": 103,
+        "title": "Niall, Pedron",
+        "titleRaw": "Niall, Pedron (NEYE-awl, PAY-drohn)",
+        "titlePhonetic": "NEYE-awl, PAY-drohn",
+        "content": "Lord Captain Commander of the Children of the Light. See also Children of the Light."
+    },
+    {
+        "id": 104,
+        "title": "Nynaeve al’Meara",
+        "titleRaw": "Nynaeve al’Meara (NIGH-neev ahl-MEER-ah)",
+        "titlePhonetic": "NIGH-neev ahl-MEER-ah",
+        "content": "A woman once the Wisdom of Emond’s Field, in the Two Rivers district of Andor. Now one of the Accepted."
+    },
+    {
+        "id": 105,
+        "title": "Oaths, Three",
+        "titleRaw": "Oaths, Three",
+        "content": "The oaths taken by an Accepted who is being raised to Aes Sedai. Spoken while holding the Oath Rod, a ter’angreal that makes oaths binding. They are:"
+    },
+    {
+        "id": 106,
+        "title": "Ogier",
+        "titleRaw": "Ogier (OH-geer)",
+        "titlePhonetic": "OH-geer",
+        "content": "A non-human race, characterized by great height (ten feet is average for adult males), broad, almost snout-like noses, and long, tufted ears. They live in areas called stedding, which they rarely leave, and they typically have little contact with humankind. Knowledge of them among humans is sparse, and many belive Ogier to be only legends, though they are wondrous stonemasons and built most of the great cities after the Breaking."
+    },
+    {
+        "id": 107,
+        "title": "Old Tongue",
+        "titleRaw": "Old Tongue",
+        "content": "The language spoken during the Age of Legends. It is generally expected that nobles and the educated will have learned to speak this, but most know only a few words. Translation is often difficult, as it is a language capable of many subtly different meanings."
+    },
+    {
+        "id": 108,
+        "title": "One Power, the",
+        "titleRaw": "One Power, the",
+        "content": "The power drawn from the True Source. The vast majority of people are completely unable to learn to channel the One Power. A very small number can be taught to channel, and an even tinier number have the ability inborn. For these few there is no need to be taught; they will touch the True Source and channel the Power whether they want to or not, perhaps without even realizing what they are doing. This inborn ability usually manifests itself in late adolescence or early adulthood. If control is not taught, or self-learned (extremely difficult, with a success rate of only one in four), death is certain. Since the Time of Madness, no man has been able to channel the Power without eventually going completely, horribly mad, and then, even if he has learned some control, dying from a wasting sickness that causes the sufferer to rot alive, a sickness caused, as is the madness, by the Dark One’s taint on saidin. For a woman the death that comes without control of the Power is less horrible, but it is death just the same. Aes Sedai search for girls with the inborn ability as much to save their lives as to increase Aes Sedai numbers, and for men with it in order to stop the terrible things they inevitably do with the Power in their madness. See also Aes Sedai; channel; Five Powers; Time of Madness; True Source."
+    },
+    {
+        "id": 109,
+        "title": "Pattern of an Age",
+        "titleRaw": "Pattern of an Age",
+        "content": "The Wheel of Time weaves the threads of human lives into the Pattern of an Age, often called simply the Pattern, which forms the substance of reality for that Age. See also ta’veren."
+    },
+    {
+        "id": 110,
+        "title": "Rand al’Thor",
+        "titleRaw": "Rand al’Thor (RAND ahl-THOR)",
+        "titlePhonetic": "RAND ahl-THOR",
+        "content": "A young man from Emond’s Field, in the Two Rivers district of Andor, who is ta’veren. Once a shepherd. Now proclaimed as the Dragon Reborn, and also as He Who Comes With the Dawn, prophecied to unite the Aiel and break them. It also seems likely that he is the Coramoor, or Chosen One, sought by the Sea Folk. See also Aiel; Dragon Reborn."
+    },
+    {
+        "id": 111,
+        "title": "Rhuarc",
+        "titleRaw": "Rhuarc (RHOURK)",
+        "titlePhonetic": "RHOURK",
+        "content": "An Aiel, clan chief of the Taardad Aiel."
+    },
+    {
+        "id": 112,
+        "title": "Rhuidean",
+        "titleRaw": "Rhuidean (RHUY-dee-ahn)",
+        "titlePhonetic": "RHUY-dee-ahn",
+        "content": "A great city, the only one in the Aiel Waste and totally unknown to the outside world. Abandoned for nearly three thousand years. Once men among the Aiel were allowed to enter Rhuidean only once, in order to be tested, inside a great ter’angreal, for fitness to become clan chief (only one in three survived), and women only twice, for testing in that same ter’angreal and again to become Wise Ones, though with a considerably higher survival rate. Now the city is inhabited again, by Aiel, and a great lake occupies one end of the valley of Rhuidean, fed by an underground ocean of fresh water and in turn feeding the only river in the Waste."
+    },
+    {
+        "id": 113,
+        "title": "sa’angreal",
+        "titleRaw": "sa’angreal (SAH-ahn-GREE-ahl)",
+        "titlePhonetic": "SAH-ahn-GREE-ahl",
+        "content": "Any one of a number of objects that allow channelling much more of the One Power than would otherwise be possible or safe. A sa’angreal is like unto, but much more powerful than, an angreal. The amount of the Power that can be wielded with a sa’angreal compares to the amount of the Power that can be handled with an angreal as the power wielded with the aid of an angreal does to the amount of the Power that can be handled unaided. The making of them is no longer known. As with angreal, there are male and female sa’angreal. Only a handful remain, far fewer even than angreal."
+    },
+    {
+        "id": 114,
+        "title": "saidar",
+        "titleRaw": "saidar (sah-ih-DAHR) saidin (sah-ih-DEEN)",
+        "titlePhonetic": "sah-ih-DAHR",
+        "content": "See True Source."
+    },
+    {
+        "id": 115,
+        "title": "Seanchan",
+        "titleRaw": "Seanchan (SHAWN-CHAN)",
+        "titlePhonetic": "SHAWN-CHAN",
+        "content": "(1) Descendants of the armies Artur Hawkwing sent across the Aryth Ocean, who conquered the lands there. They believe that any woman who can channel must be controlled for the safety of everyone else, and any man who can channel must be killed for the same reason."
+    },
+    {
+        "id": 116,
+        "title": "Seekers for Truth",
+        "titleRaw": "Seekers for Truth",
+        "content": "A police/spy organization of the Seanchan Imperial Throne. Although most are property of the Imperial family, they have wide powers. Even one of the Blood (a Seanchan noble) can be arrested for failure to answer any question put by a Seeker, or for failure to cooperate fully with a Seeker, this last defined by the Seekers themselves, subject only to review by the Empress."
+    },
+    {
+        "id": 117,
+        "title": "Shayol Ghul",
+        "titleRaw": "Shayol Ghul (SHAY-ol GHOOL)",
+        "titlePhonetic": "SHAY-ol GHOOL",
+        "content": "A mountain in the Blasted Lands, the site of the Dark One’s prison."
+    },
+    {
+        "id": 118,
+        "title": "Siuan Sanche",
+        "titleRaw": "Siuan Sanche (SWAHN SAHN-chay)",
+        "titlePhonetic": "SWAHN SAHN-chay",
+        "content": "The daughter of a Tairen fisherman, she was, according to Tairen law, put on a ship to Tar Valon before the second sunset after it was discovered that she had the potential to channel. Once Aes Sedai of the Blue Ajah and later Amyrlin Seat, she was deposed and stilled. Now seeking to avoid the fate she fears."
+    },
+    {
+        "id": 119,
+        "title": "Spine of the World",
+        "titleRaw": "Spine of the World",
+        "content": "A towering mountain range, with few passes, which separates the Aiel Waste from the lands to the west. Also called the Dragonwall."
+    },
+    {
+        "id": 120,
+        "title": "stilling",
+        "titleRaw": "stilling",
+        "content": "The act, performed by Aes Sedai, of shutting off a woman who can channel from the One Power. A woman who has been stilled can sense the True Source, but she cannot touch it. So seldom has it been done that novices are required to learn the names and crimes of all women who have suffered it. Officially, stilling is the result of trial and sentence for a crime. When it happens accidentally, it is called being burned out. In practice, the term stilling is often used for both."
+    },
+    {
+        "id": 121,
+        "title": "Stone of Tear",
+        "titleRaw": "Stone of Tear",
+        "content": "A great fortress in the city of Tear, said to have been made by use of the One Power soon after the Breaking of the World. Attacked and besieged countless times, it fell in a single night to the Dragon Reborn and a few hundred Aiel, thus fulfilling two parts of the Prophecies of the Dragon. The Stone contains a collection of an’greal and ter’angreal rivaling that of the White Tower, a collection which was gathered, some say, in an attempt to diminish the glare of possessing Callandor."
+    },
+    {
+        "id": 122,
+        "title": "sul’dam",
+        "titleRaw": "sul’dam (SOOL-dam)",
+        "titlePhonetic": "SOOL-dam",
+        "content": "Literally, “leash holder.” Seanchan term for a woman with the ability to control, by means of an a’dam, a woman who can channel. A fairly honored position among the Seanchan. What is known to only a few is that sul’dam are in fact those women who could be taught to channel. See also a’dam; damane; Seanchan."
+    },
+    {
+        "id": 123,
+        "title": "Talents",
+        "titleRaw": "Talents",
+        "content": "Abilities in the use of the One Power in specific areas. The best known of these, of course, is Healing. Some, such as Traveling, the ability to shift oneself from one place to another without crossing the intervening space, have been lost. Others such as Foretelling (the ability to foretell future events, but in a general way) are now found only rarely if at all. Another Talent long thought lost is Dreaming, which involves, among other things, interpreting the Dreamers dreams to foretell future events in more specific fashion than Foretelling does. Some Dreamers had the ability to enter Tel’aran’rhiod, the World of Dreams, and (it is said) even other people’s dreams. The last known Dreamer was Corianin Nedeal (coh-ree-AHN-ihn neh-dee-AHL), who died in 526 NE, but there is now another, known to but a few."
+    },
+    {
+        "id": 124,
+        "title": "Tallanvor, Martyn",
+        "titleRaw": "Tallanvor, Martyn (TAL-lahn-vohr, mahr-TEEN)",
+        "titlePhonetic": "TAL-lahn-vohr, mahr-TEEN",
+        "content": "Guardsman-Lieutenant of the Queen’s Guards who loves his queen more than life or honor."
+    },
+    {
+        "id": 125,
+        "title": "ta’maral’ailen",
+        "titleRaw": "ta’maral’ailen (tah-MAHR-ahl-EYE-lehn)",
+        "titlePhonetic": "tah-MAHR-ahl-EYE-lehn",
+        "content": "In the Old Tongue, “Web of Destiny.” A great change in the Pattern of an Age, centered around one or more people who are ta’veren. See also Pattern of an Age; ta’veren."
+    },
+    {
+        "id": 126,
+        "title": "Tanchico",
+        "titleRaw": "Tanchico (tan-CHEE-coh)",
+        "titlePhonetic": "tan-CHEE-coh",
+        "content": "Capital city of Tarabon. See Tarabon."
+    },
+    {
+        "id": 127,
+        "title": "Tarabon",
+        "titleRaw": "Tarabon (TAH-rah-BON)",
+        "titlePhonetic": "TAH-rah-BON",
+        "content": "Nation on the Aryth Ocean. Once a great trading nation, a source of rugs, dyes, and fireworks produced by the Guild of Illuminators, among other things. Now wracked by civil war, as well as simultaneous wars against Arad Doman and people sworn to the Dragon Reborn."
+    },
+    {
+        "id": 128,
+        "title": "Tarmon Gai’don",
+        "titleRaw": "Tarmon Gai’don (TAHR-mohn GAY-dohn)",
+        "titlePhonetic": "TAHR-mohn GAY-dohn",
+        "content": "The Last Battle. See also Dragon, Prophecies of the; Horn of Valere."
+    },
+    {
+        "id": 129,
+        "title": "ta’veren",
+        "titleRaw": "ta’veren (tah-VEER-ehn)",
+        "titlePhonetic": "tah-VEER-ehn",
+        "content": "A person around whom the Wheel of Time weaves all surrounding life-threads, perhaps ALL life-threads, to form a Web of Destiny. See also Pattern of an Age."
+    },
+    {
+        "id": 130,
+        "title": "Tear",
+        "titleRaw": "Tear (TEER)",
+        "titlePhonetic": "TEER",
+        "content": "A great seaport on the Sea of Storms. Also the capital city of that nation, a great seaport. The banner of Tear is three white crescent moons slanting across a field half red, half gold. See also Stone of Tear."
+    },
+    {
+        "id": 131,
+        "title": "Telamon, Lews Therin",
+        "titleRaw": "Telamon, Lews Therin (TEHL-ah-mon, LOOZ THEH-rihn)",
+        "titlePhonetic": "TEHL-ah-mon, LOOZ THEH-rihn",
+        "content": "See Dragon, the."
+    },
+    {
+        "id": 132,
+        "title": "Tel’aran’rhiod",
+        "titleRaw": "Tel’aran’rhiod (tel-AYE-rahn-rhee-ODD)",
+        "titlePhonetic": "tel-AYE-rahn-rhee-ODD",
+        "content": "In the Old Tongue, “the Unseen World”, or “the World of Dreams.” A world glimpsed in dreams which was believed by the ancients to permeate and surround all other possible worlds. Many can touch Tel’aran’rhiod for a few moments in their dreams, but few have ever had the ability to enter it at will, though some ter’angreal have recently been discovered to confer that ability. Unlike other dreams, what happens to living things in the World of Dreams is real; a wound taken there will still be there on awakening, and one who dies there does not wake at all. See also ter’angreal."
+    },
+    {
+        "id": 133,
+        "title": "ter’angreal",
+        "titleRaw": "ter’angreal (TEER-ahn-GREE-ahl)",
+        "titlePhonetic": "TEER-ahn-GREE-ahl",
+        "content": "Any one of a number of remnants of the Age of Legends that use the One Power. Unlike angreal and sa’angreal, each ter’angreal was made to do a particular thing. For example, one makes oaths taken within it binding. Some are used by Aes Sedai, but their original purposes are largely unknown. Some will kill or destroy the ability to channel of any woman who uses them. See also angreal; sa’angreal."
+    },
+    {
+        "id": 134,
+        "title": "Merrilin, Thom",
+        "titleRaw": "Merrilin, Thom (MER-rih-lihn, TOM)",
+        "titlePhonetic": "MER-rih-lihn, TOM",
+        "content": "A not-so-simple gleeman and traveler. See also gleeman."
+    },
+    {
+        "id": 135,
+        "title": "Time of Madness",
+        "titleRaw": "Time of Madness",
+        "content": "The years after the Dark One’s counterstroke tainted the male half of the True Source, when male Aes Sedai went mad and Broke the World. The exact duration of this period is unknown, but it is believed to have lasted nearly one hundred years. It ended completely only with the death of the last male Aes Sedai. See also Hundred Companions; True Source; One Power; Breaking of the World."
+    },
+    {
+        "id": 136,
+        "title": "Trollocs",
+        "titleRaw": "Trollocs (TRAHL-lohks)",
+        "titlePhonetic": "TRAHL-lohks",
+        "content": "Creatures of the Dark One, created during the War of the Shadow. Huge in stature, they are a twisted blend of animal and human stock. Vicious by nature, they kill for the pure pleasure of killing. Deceitful in the extreme, they cannot be trusted unless coerced by fear. They are divided into tribe-like bands, among them the Dha’vol, the Ko’bal, and the Dhai’mon."
+    },
+    {
+        "id": 137,
+        "title": "Trolloc Wars",
+        "titleRaw": "Trolloc Wars",
+        "content": "A series of wars, beginning about 1000 AB and lasting more than three hundred years, during which Trolloc armies ravaged the world. Eventually the Trollocs were slain or driven back into the Great Blight, but some nations ceased to exist, while others were almost depopulated. All records of the time are fragmentary."
+    },
+    {
+        "id": 138,
+        "title": "True Source",
+        "titleRaw": "True Source",
+        "content": "The driving force of the universe, which turns the Wheel of Time. It is divided into a male half (saidin) and a female half (saidar), which work at the same time with and against each other. Only a man can draw on saidin, only a woman on saidar. Since the beginning of the Time of Madness, saidin has been tainted by the Dark One’s touch. See also One Power."
+    },
+    {
+        "id": 139,
+        "title": "Verin Mathwin",
+        "titleRaw": "Verin Mathwin (VEHR-ihn MAH-thwin)",
+        "titlePhonetic": "VEHR-ihn MAH-thwin",
+        "content": "Aes Sedai of the Brown Ajah, last known to be in the Two Rivers purportedly seeking girls who could be taught to channel. See also Ajah."
+    },
+    {
+        "id": 140,
+        "title": "Warder",
+        "titleRaw": "Warder",
+        "content": "A warrior bonded to an Aes Sedai. The bonding is a thing of the One Power, and by it he gains such gifts as quick healing, the ability to go long periods without food, water, or rest, and the ability to sense the taint of the Dark One at a distance. So long as a Warder lives, the Aes Sedai to whom he is bonded knows he is alive however far away he is, and when he dies she will know the moment and manner of his death. The bonding does not tell her how far he is, though, nor in what direction. While most Ajahs believe an Aes Sedai may have one Warder bonded to her at a time, the Red Ajah refuses to bond any Warders at all, while the Green Ajah believe an Aes Sedai may bond as many Warders as she wishes. Ethically the Warder must accede to the bonding, but it has been known to be done involuntarily. What the Aes Sedai gain from the bonding is a closely held secret. See also Aes Sedai."
+    },
+    {
+        "id": 141,
+        "title": "War of Power",
+        "titleRaw": "War of Power",
+        "content": "See War of the Shadow."
+    },
+    {
+        "id": 142,
+        "title": "War of the Hundred Years",
+        "titleRaw": "War of the Hundred Years",
+        "content": "A series of overlapping wars among constantly shifting alliances, precipitated by the death of Artur Hawkwing and the resulting struggle for his empire. It lasted from FY 994 to FY 1117. The war depopulated large parts of the lands between the Aryth Ocean and the Aiel Waste, from the Sea of Storms to the Great Blight. So great was the destruction that only fragmentary records of the time remain. The empire of Artur Hawkwing was pulled apart in the wars, and the nations of the present day were formed. See also Hawkwing, Artur."
+    },
+    {
+        "id": 143,
+        "title": "War of the Shadow",
+        "titleRaw": "War of the Shadow",
+        "content": "Also known as the War of Power, it ended the Age of Legends. It began shortly after the attempt to free the Dark One, and soon involved the whole world. In a world where even the memory of war had been forgotten, every facet of war was rediscovered, often twisted by the Dark One’s touch on the world, and the One Power was used as a weapon. The war was ended by the resealing of the Dark One into his prison. See also Hundred Companions, the; Dragon, the."
+    },
+    {
+        "id": 144,
+        "title": "Weight, units of",
+        "titleRaw": "Weight, units of",
+        "content": "10 ounces= 1 pound; 10 pounds= stone; 10 stone= hundredweight; 10 hundredweight= 1 ton."
+    },
+    {
+        "id": 145,
+        "title": "Wheel of Time, the",
+        "titleRaw": "Wheel of Time, the",
+        "content": "Time is a wheel with seven spokes, each spoke an Age. As the Wheel turns, the Ages come and go, each leaving memories that fade to legend, then to myth, and are forgotten by the time that Age comes again. The Pattern of an Age is slightly different each time an Age comes, and each time it is subject to greater change, but each time it is the same Age."
+    },
+    {
+        "id": 146,
+        "title": "Whitecloaks",
+        "titleRaw": "Whitecloaks",
+        "content": "See Children of the Light."
+    },
+    {
+        "id": 147,
+        "title": "wilder",
+        "titleRaw": "wilder",
+        "content": "A woman who has learned to channel the One Power on her own, surviving the crisis as only one in four does. Such women usually build barriers against knowing what it is they are doing, but if these can be broken down, wilders are among the most powerful of channelers. The term is often used in derogatory fashion."
+    },
+    {
+        "id": 148,
+        "title": "Wisdom",
+        "titleRaw": "Wisdom",
+        "content": "In villages, a woman chosen by the Women’s Circle for her knowledge of such things as healing, and foretelling the weather, as well as for common good sense. A position of great responsibility and authority, both actual and implied. She is generally considered the equal of the mayor, just as the Women’s Circle is the equal of the Village Council. Unlike the mayor, the Wisdom is chosen for life, and it is very rare for a Wisdom to be removed from office before her death. Depending on the land, she may instead have another title, such as Guide, Healer, Wise Woman, or Seeker."
+    },
+    {
+        "id": 149,
+        "title": "Wise One",
+        "titleRaw": "Wise One",
+        "content": "Among the Aiel, Wise Ones are women chosen by other Wise Ones and trained in healing, herbs and other things, much like Wisdoms. Usually there is a single Wise One to each clan or sept hold. They have great authority and responsibility, as well as great influence with sept and clan chiefs, though these men often accuse them of meddling. Wise Ones stand outside all feuds and battles, and according to ji’e’toh may not be harmed or impeded in any way. Some Wise Ones have the ability to channel, but they do not advertise this. Three Wise Ones now living are dreamwalkers, with the ability to enter Tel’aran’rhiod and to speak to other people in their dreams, among other things. See also dreamwalker; ji’e’toh; Tel’aran’rhiod."
+    }
+]
